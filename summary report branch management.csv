@@ -1,0 +1,1350 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Components,Components,Due date,Votes,Labels,Labels,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Cloners),Inward issue link (Duplicate),Outward issue link (Duplicate),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Aha! Description),Custom field (Aha! Reference),Custom field (Approvals),Custom field (BA Audit),Custom field (BA Owner),Custom field (Backout plan),Custom field (Begin Date),Custom field (Bug Fixing Effort),Custom field (Bug Type - CoC),Custom field (Business Value),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Clarification Required),Custom field (Custom Time Tracking),Custom field (Customer),Custom field (Design Approver),Custom field (Design Notes),Custom field (Design Owner),Custom field (Development),Custom field (End Date),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Fix Note),Custom field (Handover Link),Custom field (Hiring department),Custom field (Hiring manager),Custom field (Hold Reason),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Job role),Custom field (Justification),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Operational categorization),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Platform),Custom field (Possible Person of Interest),Custom field (Product categorization),Custom field (Project Code),Custom field (Project overview key),Custom field (Project overview status),Custom field (QA Due Date),Custom field (QA Owner),Custom field (QA Test Cases),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Required Till Date),Custom field (Resolution),Custom field (Resource Type),Custom field (Responders),Custom field (Revision),Custom field (Root Cause),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Severity),Custom field (Source),Sprint,Sprint,Sprint,Custom field (Start date),Custom field (Story Complexity),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Techlogix Office),Custom field (Technology Stack Requirement),Custom field (Test Case Status),Custom field (Test plan),Custom field (TestTrack ID),Custom field (Time Estimate),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (User Guide),Custom field (Vulnerability),Custom field (Weightage),Custom field (Work category),Custom field (Workaround),Custom field (Xray Begin Date),Custom field (Xray End Date),Custom field (Xray Revision),Custom field (Zoho ID),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Parent,Parent summary,Status Category,Status Category Changed
+BE | API Required for Users Shift Timings against Branch,AUP-5994,99949,Sub-task,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Umair Khan,557058:96fd64bb-5504-4e29-9aad-ad5830fa2cd8,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,17/May/24 4:54 PM,17/May/24 4:56 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,"Parameters
+
+* Branch ID
+
+Response
+
+* Employee Name
+* Shift Detail
+* Timings (from, to)",,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1c80be66,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06ajh:,,,,,,,,,,,,,,,AFXUAE Sprint 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97526,BM | Manage Branch Duty Roster  (Report),To Do,17/May/24 4:54 PM
+FE: Enable Document Downloads in Branch Management,AUP-5993,99947,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,17/May/24 4:39 PM,21/May/24 12:56 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,Bilawal Abbasi,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,17/May/24 5:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;Download Functionality In Branch Management.docx;https://techlogix.atlassian.net/rest/api/3/attachment/content/87650,17/May/24 5:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;image-20240517-123722.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87651,17/May/24 5:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;image-20240517-124003.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87648,17/May/24 5:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;image-20240517-124031.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87649,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5fc43fab,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-21T12:54:33.944+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06aj1:,,,,,,,,,,,,,,,,,,20/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-17 12:40:49.892,,"17/May/24 5:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[~accountid:6391d8c45fc160544e1e0761] - I have attached a document that contains all the screens where the download functionality is required. Screenshots are also attached for reference.
+
+Please review it and let me know if you need any further information or clarification. [^15b9a59c-7dd5-479e-a593-0bb431f8f992] 
+
+
+
+!image-20240517-123722.png|width=1198,height=590,alt=""image-20240517-123722.png""!
+
+
+
+!image-20240517-124003.png|width=976,height=550,alt=""image-20240517-124003.png""!
+
+
+
+!image-20240517-124031.png|width=1202,height=617,alt=""image-20240517-124031.png""!",20/May/24 8:49 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1957|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1957|smart-link] ,21/May/24 12:56 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main By Bilawal: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1957|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1957|smart-link] ,,,,,,,,,,,,,,,,,,,,,99946,BM | Document Download Feature,In Progress,21/May/24 12:55 PM
+BM | Document Download Feature,AUP-5992,99946,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,17/May/24 4:39 PM,17/May/24 4:42 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@316bf5e5,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06ait:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,17/May/24 4:39 PM
+"BM | BE: Bugs + New Adjustments - May 09, 2024",AUP-5777,99501,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,sharqua,63d26077f6e1b54316173e5c,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,10/May/24 1:24 PM,15/May/24 5:43 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,"Below are the issues which were Identified during a meeting with [~accountid:63c699e4d16a886a25e60e83] on May 09, 2024
+
+
+
+* Head Office: Head office should be just only branch within the complete branch list. Second Headoffice branch cannot be created at any cost
+* Branch List: List should show the records order as the last created should be shown on top
+* Branch Mapping - Branch Code should be proper - its not creating properly once branch is mapped
+* GL Code should be removed from Branch Profile
+* Branch Profile - Branch ID should be reflected once the branch Id is generated in branch mapping screen 
+* If a branch ID is generated from Branch Profile screen then it should also be reflected on the branch mapping screen",,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@82c46ef,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2024-05-14T13:25:43.667+0500"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i067ud:,,,,,,,,,,,,,,,AFXUAE Sprint 23,AFXUAE Sprint 24,,14/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-14 06:30:58.41,,"14/May/24 11:30 AM;62df8acbbc2c449f3d93f0e0;BE PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2607|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2607]
+
+FE PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1889|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1889|smart-link] ",,,,,,,,,,,,,,,,,,,,,,,99498,BM | QA Issues + Bugs + Hotfixes,In Progress,14/May/24 1:26 PM
+"BM | FE: Bugs + New Adjustments - May 09, 2024",AUP-5776,99499,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,10/May/24 1:13 PM,14/May/24 7:47 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,"Below are the issues which were Identified during a meeting with [~accountid:63c699e4d16a886a25e60e83] on May 09, 2024
+
+* (label Change) Status - Change to Branch Status (/) 
+* (label Change) Branch Status - change to Approval(/) 
+* If the user has created the branch then that person should not be allowed to approve any branch. 
+* Controls Screen: End Of Day (2nd field in screen) -> Branch Stock Management (Label Change)(/) 
+* Branch Profile: Numbers feild shuold not accept characters(/) 
+* On Users tab - apply condition: if branch approval status is none then it should not be shown (/) 
+* Controls: On new record when a tab is clicked then it throws error even on save  (/) 
+* Alerts: Threshold values row add button alignment issue  (/) 
+* Threshold: Products: Select All option should be given which should select all the values
+* Users: white background should not be stretched to complete page instead it should be filled till the number of rows filled in the grid
+* Users UI Issue: Id is left aligned  (/) 
+* Threshold: PPC Min Max field condition that max should not be lesser the max field.
+* PPC Min Max fields should be moved to Alerts screen
+* GL Code should be removed from Branch Profile  (/) 
+* Button should be there that can help to Clear filter options
+* Area Region + Branch Area MApping: Contxt menu(3 dots) in mapping screen Branch/Area option should be provided. containing options (View and Edit)",,Ali Muhammad Usman,Muhammad Faraz Ozair,,,,6391d8c45fc160544e1e0761,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6d077cce,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-14T19:46:51.487+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i067tx:,,,,,,,,,,,,,,,AFXUAE Sprint 23,AFXUAE Sprint 24,,10/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-10 15:25:51.803,,"10/May/24 8:25 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;* Controls Screen: End Of Day (2nd field in screen) -> Branch Stock Management (Label Change)
+* (label Change) Status - Change to Branch Status
+* (label Change) Branch Status - change to Approval
+* Branch Profile: Numbers feild shuold not accept characters
+* On Users tab - apply condition: if branch approval status is none then it should not be shown","13/May/24 8:10 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;* Controls: On new record when a tab is clicked then it throws error even on save (Communicated to me by [~accountid:60ae8f6539ab6f00711ec31e] that this is done already)
+* GL Code should be removed from Branch Profile
+* Users UI Issue: Id is left aligned
+* Alerts: Threshold values row add button alignment issue
+
+
+Figured out the View issue communicated by [~accountid:60ae8f6539ab6f00711ec31e] and helped some FE developers with their problems. ",14/May/24 7:43 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1897|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1897|smart-link] ,14/May/24 7:47 PM;6391d8c45fc160544e1e0761;Merged PR to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1897|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1897|smart-link] ,,,,,,,,,,,,,,,,,,,,99498,BM | QA Issues + Bugs + Hotfixes,Done,14/May/24 7:47 PM
+BM | QA Issues + Bugs + Hotfixes,AUP-5775,99498,Story,In Progress,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,10/May/24 1:11 PM,20/May/24 3:11 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@61d23a2e,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i067tp:,,,,,,,,,,,,,,,AFXUAE Sprint 23,AFXUAE Sprint 24,,15/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,15/May/24 4:26 PM
+FE | Branch Id Extract By Area Code Branch Profile,AUP-5748,99432,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,09/May/24 3:44 PM,14/May/24 1:25 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Bilawal Abbasi,,,,,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1c77da87,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=5}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":5,""lastUpdated"":""2024-05-14T13:25:43.667+0500"",""stateCount"":5,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":5,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i067fp:,,,,,,,,,,,,,,,,,,12/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10/May/24 2:31 PM;62df8acbbc2c449f3d93f0e0;BE: PR Merged to Main [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2570|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2570|smart-link] 
+
+BE: PR Merged to Main [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2577/bm-bilawal-aup-5748|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2577/bm-bilawal-aup-5748|smart-link] 
+
+FE: PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1863|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1863|smart-link] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,13/May/24 1:33 PM
+FE | Branch Garde Drop Down Fix,AUP-5741,99421,Sub-task,In Progress,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,09/May/24 2:35 PM,12/May/24 3:47 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Bilawal Abbasi,,,,,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@b40addf,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-09T14:48:25.683+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i067d9:,,,,,,,,,,,,,,,,,,12/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09/May/24 3:46 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1835/aup-5741-bm-branch-grade-dropdown-value|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1835/aup-5741-bm-branch-grade-dropdown-value|smart-link] ,,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,09/May/24 3:45 PM
+FE | Bug Fixes | View Branches,AUP-5718,99398,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faizan Hassan,60ae8f6539ab6f00711ec31e,09/May/24 1:01 PM,13/May/24 10:56 AM,20/May/24 12:45 PM,,,,09/May/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Faizan Hassan,Muhammad Faraz Ozair,,,6391d8c45fc160544e1e0761,60ae8f6539ab6f00711ec31e,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,AUP-5576,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@857be64,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2024-05-13T10:55:56.240+0500"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06785:,,,,,,,,,,,,,,,,,,09/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-09 12:17:32.051,,"09/May/24 5:17 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|smart-link] 
+
+CC: [~accountid:6391d8c45fc160544e1e0761] ",09/May/24 5:20 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|smart-link] ,10/May/24 8:01 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1860|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1860|smart-link] ,13/May/24 10:56 AM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1860|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1860|smart-link] ,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,09/May/24 5:19 PM
+FE|BE Bug Fixes of Branch Profile & Control,AUP-5705,99382,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faizan Hassan,60ae8f6539ab6f00711ec31e,09/May/24 12:21 PM,10/May/24 11:22 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Bilawal Abbasi,Faizan Hassan,,,,62df8acbbc2c449f3d93f0e0,60ae8f6539ab6f00711ec31e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@501d5f53,,,,,,,,,,,,,,,,,,"{repository={count=3, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":3,""lastUpdated"":""2024-05-09T14:32:32.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i0674l:,,,,,,,,,,,,,,,,,,09/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-09 10:47:09.11,,"09/May/24 3:47 PM;62df8acbbc2c449f3d93f0e0;FE PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1834/aup-5436-bm-branch-grade-dropdown-fix|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1834/aup-5436-bm-branch-grade-dropdown-fix|smart-link] 
+
+BE PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2553/bmcorbranch-profile-changes-committed|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2553/bmcorbranch-profile-changes-committed|smart-link] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,09/May/24 2:35 PM
+"FE: Bug Fixes - Area, Branch Mapping to Area and Branch list",AUP-5680,99339,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/May/24 8:07 PM,08/May/24 9:24 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,"Current Branch checked out from  [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/branch/faraz/bm/bug-fixes|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/branch/faraz/bm/bug-fixes|smart-link] 
+
+Previous PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1820|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1820|smart-link]  (Ignore because the changes it contains is already merged in [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1822|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1822|smart-link] ",,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6fdd5ec4,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T20:42:33.536+0500"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i066v9:,,,,,,,,,,,,,,,,,,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08/May/24 9:22 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1822|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1822],,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,08/May/24 9:21 PM
+FE: Risk Register - Fixes,AUP-5677,99332,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,08/May/24 4:39 PM,10/May/24 10:44 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08/May/24 4:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1006a9a2,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T18:09:10.570+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i066tp:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-08 13:09:36.009,,08/May/24 4:51 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1817|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1817|smart-link] ,08/May/24 6:09 PM;6391d8c45fc160544e1e0761;PR Merged: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1817|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1817|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,Done,08/May/24 6:09 PM
+FE: Risk Register Listing Screen & Add/Edit Risk - DEV Build Fixes,AUP-5673,99325,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/May/24 3:40 PM,10/May/24 10:43 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08/May/24 4:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@56de5448,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T15:43:33.515+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i066s5:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08/May/24 3:43 PM;6391d8c45fc160544e1e0761;PR Merged to develop: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1815|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1815|smart-link] ,,,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,Done,08/May/24 3:43 PM
+FE: Risk Register Listing Screen & Add/Edit Risk - Build Fixes,AUP-5669,99319,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/May/24 2:43 PM,10/May/24 10:43 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,AUP-5367,,,,,,,,,,,,,,,,,,,,,08/May/24 4:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@28a471e,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T15:22:10.544+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i066qt:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08/May/24 3:26 PM;6391d8c45fc160544e1e0761;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1814|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1814|smart-link]  Merged to main,,,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,Done,08/May/24 3:22 PM
+FE: View/Edit Branch Permission ,AUP-5576,99152,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,06/May/24 2:38 PM,10/May/24 11:12 AM,20/May/24 12:45 PM,,,,09/May/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,AUP-4782,,,AUP-5718,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6c0129e8,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i065pp:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10/May/24 11:07 AM;6391d8c45fc160544e1e0761;The task of this ticket was completed in ticket: [https://techlogix.atlassian.net/browse/AUP-5718|https://techlogix.atlassian.net/browse/AUP-5718|smart-link]  having PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1836|smart-link] ,,,,,,,,,,,,,,,,,,,,,,,97505,BM| UC-2: User edits/view existing Branch,In Progress,10/May/24 11:07 AM
+FE: Time Extension Request View Only Mode,AUP-5555,99107,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,06/May/24 10:05 AM,20/May/24 10:22 AM,10/Jun/24 11:11 AM,,,,10/May/24 12:00 AM,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,AUP-4797,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@63e80fb,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i065fx:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-17 12:01:20.986,,17/May/24 5:01 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|smart-link] ,"20/May/24 10:22 AM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|smart-link] on Friday, May 17, 2024",,,,,,,,,,,,,,,,,,,,,,97528,BM | UC-1: Create Time Extension Request,In Progress,17/May/24 5:01 PM
+FE: Time Extension List And Add/Edit Request,AUP-5554,99106,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,06/May/24 10:04 AM,20/May/24 10:22 AM,10/Jun/24 11:11 AM,,,,10/May/24 12:00 AM,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,AUP-4797,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3139e192,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-17T17:59:32.427+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i065fp:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,14/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-17 11:59:39.005,,17/May/24 4:59 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936],17/May/24 6:00 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1936|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97528,BM | UC-1: Create Time Extension Request,In Progress,20/May/24 10:22 AM
+BE: Time Extension Request API,AUP-5553,99105,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,06/May/24 10:02 AM,08/May/24 6:58 PM,10/Jun/24 11:11 AM,,,,10/May/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,08/May/24 6:55 PM;62df8acbbc2c449f3d93f0e0;Afex End Points.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/87093,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@316e2d6b,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T18:52:47.074+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i065fh:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-08 13:55:08.252,,"08/May/24 6:55 PM;62df8acbbc2c449f3d93f0e0;PR Merged To Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2545|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2545|smart-link] 
+
+Please find the Curls Inside this file: [^0b2ff375-a254-458a-8d6f-34cc98f9a26d] 
+
+*Lookups:* 
+
+* *TIME_EXT_REQUEST_STATUS_LKP_ID*
+
+*Values*
+
+|APPROVED|
+|REJECTED|
+|PENDING|
+
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,,97528,BM | UC-1: Create Time Extension Request,In Progress,08/May/24 6:55 PM
+BE: Branch Approval API,AUP-5497,99017,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,02/May/24 3:12 PM,10/May/24 11:22 AM,10/Jun/24 11:11 AM,,,,02/May/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7d3b0f71,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=3}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":3,""lastUpdated"":""2024-05-03T12:47:29.468+0500"",""stateCount"":3,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i064vx:,,,,,,,,,,,,,,,,,,02/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-02 12:05:52.209,,"02/May/24 5:05 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2468|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2468|smart-link] 
+
+# *Approve Branch Status:* [*https://localhost:8183/afxuaedev/bm/updateBranchStatus*|https://localhost:8183/afxuaedev/bm/updateBranchStatus]
+
+*Body:*
+
+{noformat}{
+    ""corBranchId"": 1007,
+    ""isApprove"": true,
+    ""remarks"": ""hello"",
+    ""agent"": ""IRFAN""
+}{noformat}
+
+*Response:*
+
+{noformat}{
+    ""code"": ""0000"",
+    ""status"": ""Success"",
+    ""message"": ""Branch Status Updated Successfully"",
+    ""data"": []
+}{noformat}
+
+# *Reject Branch Status:* [*https://localhost:8183/afxuaedev/bm/updateBranchStatus*|https://localhost:8183/afxuaedev/bm/updateBranchStatus]
+
+*Body:*
+
+{noformat}{
+    ""corBranchId"": 1007,
+    ""isReject"": true,
+    ""remarks"": ""hello"",
+    ""agent"": ""IRFAN""
+}{noformat}
+
+*Response:*
+
+{noformat}{
+    ""code"": ""0000"",
+    ""status"": ""Success"",
+    ""message"": ""Branch Status Updated Successfully"",
+    ""data"": []
+}{noformat}
+
+
+
+# *Get Approval Status Field:* [*https://localhost:8183/afxuaedev/bm/getBranches?page=0&pageSize=10&corBranchId=1008*|https://localhost:8183/afxuaedev/bm/getBranches?page=0&pageSize=10&corBranchId=1008]
+
+{noformat}{
+    ""status"": ""Success"",
+    ""message"": ""Branches Fetched Successfully"",
+    ""code"": ""0000"",
+    ""total"": 1,
+    ""totalPages"": 1,
+    ""currentPage"": 0,
+    ""pageSize"": 10,
+    ""data"": [
+        {
+            ""corBranchId"": 1008,
+            ""branchTypeLkpId"": 1148,
+              ........
+            ""secondContactPerson"": null,
+            ""thirdContactPerson"": null,
+            ""bmBranchContactDetailDomains"": [],
+            ""branchManagerName"": null,
+            ""userCount"": 2,
+            ""productCount"": 15,
+            ""branchApprovalStatusLkpId"": 2258,
+            ""branchApprovalStatus"": ""REJECTED""
+        }
+    ]
+}{noformat}
+
+
+
+[~accountid:6391d8c45fc160544e1e0761] [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,02/May/24 5:01 PM
+FE: Branch Approval,AUP-5492,99001,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faizan Hassan,60ae8f6539ab6f00711ec31e,02/May/24 12:53 PM,10/May/24 11:22 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Faizan Hassan,Muhammad Faraz Ozair,,,,60ae8f6539ab6f00711ec31e,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d3b5308,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-06T16:23:32.754+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i064r9:,,,,,,,,,,,,,,,,,,02/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-03 13:46:32.534,,"03/May/24 6:46 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1761|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1761|smart-link] 
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,06/May/24 4:23 PM
+BE: Branch Dropdown API,AUP-5445,98883,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,29/Apr/24 2:15 PM,10/May/24 11:00 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,"Create an endpoint that returns all the branches. Add a parameter that will take 3 status values and will return the result set on the basis of this value:
+
+* All
+* Active
+* In-Active",,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2a6c4e10,,,,,,,,,,,,,,,,,,"{repository={count=2, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":2,""lastUpdated"":""2024-04-29T14:59:18.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06411:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,29/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-29 09:57:46.351,,"29/Apr/24 2:57 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2414|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2414|smart-link] 
+
+Please find the curl below: [~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] [~accountid:6391d8c45fc160544e1e0761] 
+
+# *Get All Branches:*
+#* *{{baseUrlQA}}/bm/getBranches?isAllSelected=true*
+
+Sample Response
+
+{noformat}{
+    ""status"": ""Success"",
+    ""message"": ""Branches Fetched Successfully"",
+    ""code"": ""0000"",
+    ""total"": 26,
+    ""totalPages"": 13,
+    ""currentPage"": 0,
+    ""pageSize"": 2,
+    ""data"": [
+        {
+            ""corBranchId"": 1007,
+            ""branchTypeLkpId"": 1148,
+            ""branchType"": ""KIOSK"",
+            ""branchCode"": 1,
+            ""branchName"": ""My New Branch"",
+            ""branchShortName"": ""MNB"",
+            ""isDepartment"": false,
+            ""isHeadOffice"": false,
+            ""branchStatusLkpId"": 2206,
+            ""branchStatus"": ""ACTIVE"",
+            ""targetAllocation"": 100000,
+            ""glAccountNumber"": 1234567890,
+            ""branchGrade"": 1,
+            ""ipAddressesRange"": null,
+            ""rrsId"": 1,
+            ""branchAreaId"": 1,
+            ""timeZoneNotationLkpId"": 2048,
+            ""timeZoneNotation"": ""GMT+03:00"",
+            ""eimRatesLkpId"": null,
+            ""eimRates"": null,
+            ""corCountryId"": 1029,
+            ""corCountry"": ""Pakistan"",
+            ""corStateId"": 1002,
+            ""corState"": ""Sindh-Test"",
+            ""corCityId"": 1002,
+            ""corCity"": ""Karachi-Test"",
+            ""postalCode"": 12345,
+            ""addressLine1"": ""123 Main Street"",
+            ""addressLine2"": ""Suite 456"",
+            ""geoLocation"": null,
+            ""emailAddress"": ""mybranch@example.com"",
+            ""phone"": ""+1 (555) 555-1234"",
+            ""mobile1"": ""+1 (555) 555-5678"",
+            ""mobile2"": """",
+            ""poBox"": 1234,
+            ""fax"": ""+1 (555) 555-9010"",
+            ""branchInfo1"": ""This is a new branch"",
+            ""branchInfo2"": """",
+            ""branchInfo3"": """",
+            ""activeSince"": 1712188800000,
+            ""closureDate"": null,
+            ""activeFlag"": true,
+            ""statusLkpId"": 1710,
+            ""status"": ""ACTIVE"",
+            ""branchManager"": {
+                ""branchContactDetailId"": 1012,
+                ""corBranchId"": null,
+                ""branchContactPersonLkpId"": 2239,
+                ""branchContactPerson"": ""BRANCH MANAGER"",
+                ""employeeName"": ""John Doe"",
+                ""eid"": 12345,
+                ""designationId"": 2,
+                ""phone"": ""+1 (555) 555-1234"",
+                ""emailAddress"": ""john.doe@example.com"",
+                ""activeFlag"": true,
+                ""statusLkpId"": 1710,
+                ""status"": ""ACTIVE""
+            },
+            ""secondContactPerson"": {
+                ""branchContactDetailId"": 1013,
+                ""corBranchId"": null,
+                ""branchContactPersonLkpId"": 2240,
+                ""branchContactPerson"": ""SECOND CONTACT PERSON"",
+                ""employeeName"": ""Jane Smith"",
+                ""eid"": 54321,
+                ""designationId"": 3,
+                ""phone"": ""+1 (555) 555-5678"",
+                ""emailAddress"": ""jane.smith@example.com"",
+                ""activeFlag"": true,
+                ""statusLkpId"": 1710,
+                ""status"": ""ACTIVE""
+            },
+            ""thirdContactPerson"": null,
+            ""bmBranchContactDetailDomains"": [
+                {
+                    ""branchContactDetailId"": 1012,
+                    ""corBranchId"": null,
+                    ""branchContactPersonLkpId"": 2239,
+                    ""branchContactPerson"": ""BRANCH MANAGER"",
+                    ""employeeName"": ""John Doe"",
+                    ""eid"": 12345,
+                    ""designationId"": 2,
+                    ""phone"": ""+1 (555) 555-1234"",
+                    ""emailAddress"": ""john.doe@example.com"",
+                    ""activeFlag"": true,
+                    ""statusLkpId"": 1710,
+                    ""status"": ""ACTIVE""
+                },
+                {
+                    ""branchContactDetailId"": 1013,
+                    ""corBranchId"": null,
+                    ""branchContactPersonLkpId"": 2240,
+                    ""branchContactPerson"": ""SECOND CONTACT PERSON"",
+                    ""employeeName"": ""Jane Smith"",
+                    ""eid"": 54321,
+                    ""designationId"": 3,
+                    ""phone"": ""+1 (555) 555-5678"",
+                    ""emailAddress"": ""jane.smith@example.com"",
+                    ""activeFlag"": true,
+                    ""statusLkpId"": 1710,
+                    ""status"": ""ACTIVE""
+                }
+            ],
+            ""branchManagerName"": ""John Doe"",
+            ""userCount"": 0,
+            ""productCount"": 4
+        }
+    ]
+}{noformat}
+
+
+
+# *Get All Areas*
+#* *{{baseUrlLocal}}/bm/getBranchAreaRegion?isAllSelected=true*
+
+{noformat}{
+    ""code"": ""0000"",
+    ""status"": ""Success"",
+    ""message"": ""Branch Area Region Fetched Successfully"",
+    ""data"": {
+        ""status"": ""Success"",
+        ""message"": ""Branch Area Region Fetched Successfully"",
+        ""code"": ""0000"",
+        ""total"": 8,
+        ""totalPages"": 1,
+        ""currentPage"": 0,
+        ""pageSize"": 10,
+        ""data"": [
+            {
+                ""areaCode"": 1,
+                ""areaName"": ""Abu Dhabi"",
+                ""agent"": null,
+                ""addedDate"": 1714376556000,
+                ""addedTime"": ""07:42:36""
+            },
+            {
+                ""areaCode"": 2,
+                ""areaName"": ""Ajman"",
+                ""agent"": null,
+                ""addedDate"": 1714376572000,
+                ""addedTime"": ""07:42:52""
+            },
+            {
+                ""areaCode"": 3,
+                ""areaName"": ""Dubai"",
+                ""agent"": null,
+                ""addedDate"": 1714376590000,
+                ""addedTime"": ""07:43:10""
+            },
+            {
+                ""areaCode"": 4,
+                ""areaName"": ""Fujairah"",
+                ""agent"": null,
+                ""addedDate"": 1714376626000,
+                ""addedTime"": ""07:43:46""
+            },
+            {
+                ""areaCode"": 5,
+                ""areaName"": ""Ras Al Khaimah"",
+                ""agent"": null,
+                ""addedDate"": 1714376641000,
+                ""addedTime"": ""07:44:01""
+            },
+            {
+                ""areaCode"": 6,
+                ""areaName"": ""Sharjah"",
+                ""agent"": null,
+                ""addedDate"": 1714376653000,
+                ""addedTime"": ""07:44:13""
+            },
+            {
+                ""areaCode"": 7,
+                ""areaName"": ""UAQ"",
+                ""agent"": null,
+                ""addedDate"": 1714376665000,
+                ""addedTime"": ""07:44:25""
+            },
+            {
+                ""areaCode"": 8,
+                ""areaName"": ""UAE"",
+                ""agent"": null,
+                ""addedDate"": 1714376676000,
+                ""addedTime"": ""07:44:36""
+            }
+        ]
+    }
+}{noformat}",,,,,,,,,,,,,,,,,,,,,,,97515,BM| UC-1: Create/view/edit  Area/Region,In Progress,03/May/24 11:14 AM
+BE: Branch User API Change,AUP-5381,98781,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,26/Apr/24 5:54 PM,10/May/24 11:22 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Bilawal Abbasi,,,,,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7f50f9,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2024-04-27T18:10:38.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i063el:,,,,,,,,,,,,,,,,,,26/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"27/Apr/24 5:20 PM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2400|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2400|smart-link] 
+
+This PR includes the change which Umair bhae done in his response ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,27/Apr/24 5:18 PM
+BE: Risk Register API,AUP-5377,98771,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 3:49 PM,14/May/24 2:58 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,AUP-4792,,03/May/24 5:19 PM;62df8acbbc2c449f3d93f0e0;Afex End Points.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/86846,,,,,,,,,,,,,,,,07/May/24 12:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26865b25,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2024-05-07T11:43:35.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i063cd:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,03/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-03 12:19:11.897,,"03/May/24 5:19 PM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2481|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2481|smart-link] 
+
+[^Afex End Points.postman_collection.json]
+
+[~accountid:6391d8c45fc160544e1e0761] 
+
+
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] Please find Risk Register API in Above File","07/May/24 11:38 AM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2511|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2511|smart-link] 
+
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,In Progress,10/May/24 10:38 AM
+FE: Risk Detail View,AUP-5376,98770,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 3:48 PM,10/May/24 10:39 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,AUP-4792,,,,,,,,,,,,,,,,,,09/May/24 10:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6cf15d8d,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-10T10:23:29.959+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i063c5:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,08/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-09 18:37:14.321,,09/May/24 11:37 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1839|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1839],10/May/24 10:24 AM;6391d8c45fc160544e1e0761;Merged PR to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1839|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1839|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,In Progress,10/May/24 10:37 AM
+FE: Risk Register Listing Screen & Add/Edit Risk,AUP-5367,98752,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 1:24 PM,10/May/24 10:40 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,AUP-4792,AUP-5669,,,,,,,,,,,,,,,,,07/May/24 1:00 PM,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ec12aa,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T13:13:43.913+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06385:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,30/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-07 07:47:47.173,,07/May/24 12:47 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1791|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1791|smart-link] ,08/May/24 1:14 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1791|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1791|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97519,BM| UC-1: Create branch register,In Progress,08/May/24 1:15 PM
+BE: Day End Report Activity/Form API,AUP-5366,98751,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 1:03 PM,10/May/24 10:51 AM,10/Jun/24 11:11 AM,,,,30/Apr/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,AUP-4790,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@741aa441,,,,,,,,,,,,,,,,,,"{repository={count=7, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":7,""lastUpdated"":""2024-04-30T18:19:25.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":7,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i0637x:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,29/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-30 13:08:21.826,,"30/Apr/24 6:08 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2450|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2450|smart-link] 
+
+
+
+# *GET Day End Actitvity Report: {{baseUrlLocal}}/bm/getDayEndActivityReport?page=0&pageSize=10&branchTypeLkpId=1147&branchCode=1034&branchAreaId=2&branchName=Test&branchAreaName=man&brDayEndReportStatusLkpId=2253*
+
+
+
+{noformat}{
+    ""status"": ""Success"",
+    ""message"": ""Record Fetched Successfully"",
+    ""code"": ""0000"",
+    ""total"": 1,
+    ""totalPages"": 1,
+    ""currentPage"": 0,
+    ""pageSize"": 10,
+    ""data"": [
+        {
+            ""brDayEndReportActivityId"": 1002,
+            ""branchCode"": 1034,
+            ""branchName"": ""TEST TABS"",
+            ""mdAreaRegionId"": 2,
+            ""areaName"": ""Ajman"",
+            ""reportDate"": 1714457455550,
+            ""branchContactPersonLkpId"": 2239,
+            ""branchContactPerson"": ""BRANCH MANAGER"",
+            ""employeeName"": ""USer 1"",
+            ""reportStatusLkpId"": 2252,
+            ""reportStatus"": ""SUBMITTED"",
+            ""activeFlag"": true
+        }
+    ]
+}{noformat}
+
+# *Day End Activity Form: {{baseUrlLocal}}/bm/saveDayEndReportFormDomain:*
+
+*Body:*
+
+{noformat}[
+    {
+        ""brDayEndReportFormId"": null,
+        ""brDayEndReportActivityId"": 1002,
+        ""reportActivityDescriptionLkpId"": 2255,
+        ""status"": true,
+        ""brDayEndReportFormRemarks"": ""ABC"",
+        ""isSave"":false,
+        ""agent"": ""IRFAN""
+    },
+    {
+        ""brDayEndReportFormId"": null,
+        ""brDayEndReportActivityId"": 1002,
+        ""reportActivityDescriptionLkpId"": 2254,
+        ""status"": true,
+        ""brDayEndReportFormRemarks"": ""ABC"",
+        ""isSave"":false,
+        ""agent"": ""IRFAN""
+    },
+    {
+        ""brDayEndReportFormId"": null,
+        ""brDayEndReportActivityId"": 1002,
+        ""reportActivityDescriptionLkpId"": 2256,
+        ""status"": true,
+        ""brDayEndReportFormRemarks"": ""ABC"",
+        ""isSave"":false,
+        ""agent"": ""IRFAN""
+    }
+]{noformat}
+
+* *Note: isSave will be true when click on Save Button it will be false when click on Submit button*
+
+# *GET DAY END FORM:* [*https://localhost:8183/afxuaedev/bm/getDayEndReportForm?page=0&pageSize=10&brDayEndReportActivityId=1002*|https://localhost:8183/afxuaedev/bm/getDayEndReportForm?page=0&pageSize=10&brDayEndReportActivityId=1002]
+
+{noformat}{
+    ""status"": ""Success"",
+    ""message"": ""Record Fetched Successfully"",
+    ""code"": ""0000"",
+    ""total"": 6,
+    ""totalPages"": 1,
+    ""currentPage"": 0,
+    ""pageSize"": 10,
+    ""data"": [
+        {
+            ""brDayEndReportFormId"": 1013,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2255,
+            ""reportActivityDescription"": ""DESCRIPTION 1"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        },
+        {
+            ""brDayEndReportFormId"": 1014,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2254,
+            ""reportActivityDescription"": ""DESCRIPTION 2"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        },
+        {
+            ""brDayEndReportFormId"": 1015,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2256,
+            ""reportActivityDescription"": ""DESCRIPTION  3"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        },
+        {
+            ""brDayEndReportFormId"": 1016,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2255,
+            ""reportActivityDescription"": ""DESCRIPTION 1"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        },
+        {
+            ""brDayEndReportFormId"": 1017,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2254,
+            ""reportActivityDescription"": ""DESCRIPTION 2"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        },
+        {
+            ""brDayEndReportFormId"": 1018,
+            ""brDayEndReportActivityId"": 1002,
+            ""reportActivityDescriptionLkpId"": 2256,
+            ""reportActivityDescription"": ""DESCRIPTION  3"",
+            ""status"": true,
+            ""brDayEndReportFormRemarks"": ""ABC"",
+            ""agent"": ""IRFAN""
+        }
+    ]
+}{noformat}
+
+Lookups: 
+
+* *BR_DAY_END_REPORT_STATUS_LKP_ID*
+* *REPORT_ACTIVITY_DESCRIPTION_LKP_ID*
+
+[~accountid:6391d8c45fc160544e1e0761] [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] [~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] ",,,,,,,,,,,,,,,,,,,,,,,97517,BM | UC-1: Create day end report,In Progress,03/May/24 11:15 AM
+FE: Day End Report Activity/Form,AUP-5365,98750,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 1:03 PM,15/May/24 4:23 PM,10/Jun/24 11:11 AM,,,,30/Apr/24 12:00 AM,0,branchmanagement,,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,AUP-5782,,,,,,AUP-4790,AUP-5782,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@637c1d09,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-15T14:30:39.148+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i0637p:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,10/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-10 06:45:11.493,,"10/May/24 10:48 AM;6391d8c45fc160544e1e0761;[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] - Please pick this task and checkout the branch of [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] as he already started with this task earlier. Get the details of his branch and checkout and create your own branch then continue from where Faraz left of.
+
+
+
+Thank you",10/May/24 10:51 AM;6391d8c45fc160544e1e0761;Assigned this ticket to [~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] as he will continue the work,"10/May/24 11:45 AM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[~accountid:6391d8c45fc160544e1e0761]  Sure, I’ll take care of this.","10/May/24 3:44 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[~accountid:6391d8c45fc160544e1e0761] I have created another Jira ticket for this screen cause i was unable to create new branch with the same ticket number. I have also linked the new item with this one, here you go with the link:
+[https://techlogix.atlassian.net/browse/AUP-5782|https://techlogix.atlassian.net/browse/AUP-5782|smart-link] ",14/May/24 6:04 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1896|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1896],15/May/24 4:23 PM;6391d8c45fc160544e1e0761;PR merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1896|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1896|smart-link]  ,,,,,,,,,,,,,,,,,,97517,BM | UC-1: Create day end report,In Progress,15/May/24 4:23 PM
+BE: Branch Mapping to Area Region API,AUP-5356,98736,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 12:10 PM,10/May/24 10:59 AM,10/Jun/24 11:11 AM,,,,29/Apr/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,AUP-5350,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@71d3390a,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i0634l:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-26 09:55:37.45,,"26/Apr/24 2:55 PM;62df8acbbc2c449f3d93f0e0;Resolved Under this: [https://techlogix.atlassian.net/browse/AUP-5350|https://techlogix.atlassian.net/browse/AUP-5350|smart-link] 
+
+PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2388|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2388|smart-link] 
+
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,,97515,BM| UC-1: Create/view/edit  Area/Region,In Progress,26/Apr/24 2:55 PM
+FE: Branch Mapping to Area Region,AUP-5355,98735,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,26/Apr/24 12:10 PM,10/May/24 10:53 AM,10/Jun/24 11:11 AM,,,,29/Apr/24 12:00 AM,0,branchmanagement,,,,Ali Muhammad Usman,Muhammad Faraz Ozair,,,,6391d8c45fc160544e1e0761,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,,,,AUP-4788,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1536431a,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-05-08T14:16:10.350+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i0634d:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,26/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-30 13:16:56.472,,30/Apr/24 6:16 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1726|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1726|smart-link] ,08/May/24 2:16 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1726|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1726|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97515,BM| UC-1: Create/view/edit  Area/Region,In Progress,08/May/24 2:16 PM
+BE: Branch Area Mapping API,AUP-5350,98730,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,26/Apr/24 11:42 AM,14/May/24 2:58 PM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Bilawal Abbasi,,,,,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,AUP-5356,,,,,26/Apr/24 2:52 PM;62df8acbbc2c449f3d93f0e0;Afex End Points.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/86531,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@65d56183,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2024-04-26T15:26:28.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i06339:,,,,,,,,,,,,,,,,,,26/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"26/Apr/24 2:52 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2388|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2388|smart-link] 
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] Please find the curl in this file: [^9c29f883-ea6c-41b2-8949-19d8ae7f54cc] 
+
+Here is the sample Response: 
+
+# *Get API*
+
+{{baseUrlLocal}}/bm/getBranchAreaRegionMap?page=0&pageSize=10
+
+{noformat}{
+    ""status"": ""Success"",
+    ""message"": ""Branch Area Region Fetched Successfully"",
+    ""code"": ""0000"",
+    ""total"": 1,
+    ""totalPages"": 1,
+    ""currentPage"": 0,
+    ""pageSize"": 10,
+    ""data"": [
+        {
+            ""brBranchAreaMapId"": 1017,
+            ""corBranchId"": 1007,
+            ""corBranchName"": ""My New Branch"",
+            ""mdAreaRegionId"": 1,
+            ""areaName"": ""Techlogix"",
+            ""branch"": ""1001 - My New Branch"",
+            ""agent"": ""BILAWAL"",
+            ""addedDate"": ""26-Apr-2024"",
+            ""addedTime"": ""09:14:01""
+        }
+    ]
+}{noformat}
+
+# *POST API:* 
+
+{{baseUrlLocal}}/bm/saveBranchAreaRegionMap
+
+*Body:*
+
+{noformat}{
+    ""brBranchAreaMapId"": null,
+    ""corBranchId"": 1007,
+    ""mdAreaRegionId"":1,
+    ""agent"": ""BILAWAL"",
+    ""activeFlag"":true
+}{noformat}
+
+*Response:*
+
+{noformat}{
+    ""code"": ""0000"",
+    ""status"": ""Success"",
+    ""message"": ""Record Saved Successfully"",
+    ""data"": []
+}{noformat}
+
+
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] If you have any concern please raise ticket with desciption thanks
+
+
+
+cc: [~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,10/May/24 10:57 AM
+Query to  Extract GL Area and Branch Data for MDM Migration ,AUP-5332,98706,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Hassan Adnan,60768795c9d3a20072dff7b6,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,25/Apr/24 4:55 PM,10/May/24 11:22 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Bilawal Abbasi,Hassan Adnan,,,,62df8acbbc2c449f3d93f0e0,60768795c9d3a20072dff7b6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3db60fbd,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i062xx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-26 07:18:57.044,,"25/Apr/24 5:03 PM;62df8acbbc2c449f3d93f0e0;Dear [~accountid:60768795c9d3a20072dff7b6] 
+
+We need the query to extracted following Data From GL for migration to MDM Schema.
+
+* *Data Fields:*
+*# Area Code
+*# Area Name
+*# Branch Code
+*# Branch Name
+
+
+
+cc: 
+
+[~accountid:6391d8c45fc160544e1e0761] ","26/Apr/24 12:18 PM;60768795c9d3a20072dff7b6;Query 1 (Branches only)
+
+
+{code:sql}-- Value Code Reperesents GL Branch Code, and Value Name is the GL Branch Name.
+-- Reference5 Desc denotes whether its a Branch or a Department. (10000 Branch, 20000 Department)
+SELECT * FROM CORE.COR_SEGMENT_VALUE WHERE VALUE_LEVEL_HIDDEN_VALUE  LIKE 'BRANCH_CODE';{code}
+
+Query 2 (Branch Area)
+
+
+{code:sql}-- Here value code reperesents the starting code of every branch 
+-- and value name being the name of branch area
+-- e.g. if its 8, then its UAE based branches e.g. 8001 head office.
+-- 8 being branch area and 001 being the branch code digits.
+SELECT * FROM CORE.COR_SEGMENT_VALUE WHERE VALUE_LEVEL_HIDDEN_VALUE LIKE 'BRANCH_AREA';{code}
+
+Query 3 (with joins for each branch name along with its branch area value)
+
+{code:sql}SELECT b.VALUE_CODE AS BRANCH_CODE, b.VALUE_NAME AS BRANCH_NAME, ba.VALUE_CODE AS BRANCH_AREA_CODE, ba.VALUE_NAME AS BRANCH_AREA_NAME
+FROM CORE.COR_SEGMENT_VALUE b
+INNER JOIN CORE.COR_SEGMENT_VALUE ba ON b.PARENT_VALUE_CODE = ba.VALUE_CODE AND ba.VALUE_LEVEL_HIDDEN_VALUE = 'BRANCH_AREA'
+WHERE b.VALUE_LEVEL_HIDDEN_VALUE LIKE 'BRANCH_CODE';{code}",,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,29/Apr/24 12:40 PM
+Document Component Changes | Addition of Expiry Date Field,AUP-5327,98688,Sub-task,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Hasan Ali,5eddfa001c63760ab0017b5d,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,25/Apr/24 2:38 PM,10/May/24 11:32 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,"We need the below changes to be incorporated in the Documents Component
+
+* Addition of Document Expiry Field",,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,AUP-5440,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@46699ef6,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i062tx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,To Do,25/Apr/24 2:38 PM
+Branch Management,AUP-5287,98608,Epic,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,,,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,24/Apr/24 2:11 PM,04/Jun/24 1:08 PM,10/Jun/24 10:16 AM,,,,,0,branchmanagement,,"Figma Link: [https://www.figma.com/file/hTY2QW8G0Gcns4bKGLzc5u/AFX-UAE---Branch-Management?type=design&node-id=71-7170&mode=design&t=UCmXgJUkFo8YjD49-0|https://www.figma.com/file/hTY2QW8G0Gcns4bKGLzc5u/AFX-UAE---Branch-Management?type=design&node-id=71-7170&mode=design&t=UCmXgJUkFo8YjD49-0|smart-link] 
+FSD Link : [https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management|https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management|smart-link] ",,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39e55930,,,,,,,,,,,,,,,,,,{},,ghx-label-14,,,Branch Management,To Do,,,,,,,,,dark_orange,,,,,,,,,,,,,,,,,,,2|i062c5:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,24/Apr/24 2:11 PM
+API Required for Inactive Tills & GL Account Number List for Branch Management,AUP-5248,98535,Sub-task,In Progress,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Hassan Adnan,60768795c9d3a20072dff7b6,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,23/Apr/24 2:11 PM,10/May/24 11:21 AM,10/Jun/24 11:11 AM,,branch-management,General Ledger,,0,branchmanagement,oldsprint20,"I Need the following API 
+
+*  *The first API will provide me a count and status of Inactive tills.* 
+API format:
+
+Active Case: 
+
+{code:json}{
+""status"": ""Success"",
+""message"": ""Record Fetched Successfully"",
+""code"": ""0000"",
+""data"":{
+    ""status"": ""Active"",
+    ""count"": 0
+    }
+}{code}
+
+Inactive Case: 
+
+{code:json}{
+""status"": ""Success"",
+""message"": ""Record Fetched Successfully"",
+""code"": ""0000"",
+""data"": {
+      ""status"": ""Inactive"",
+      ""count"": 2
+    }
+}{code}
+
+
+
+!image-20240423-092301.png|width=1752,height=919,alt=""image-20240423-092301.png""!
+
+
+
+* *The second API will provide me a list of GL Account, as I’ll populate a dropdown with it’s values.*
+
+
+
+!image-20240423-092352.png|width=1724,height=889,alt=""image-20240423-092352.png""!
+
+For reference, please check the FSD: [https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management|https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management|smart-link] ",,Ali Muhammad Usman,Hassan Adnan,,,,6391d8c45fc160544e1e0761,60768795c9d3a20072dff7b6,,,,,,,,,,,,,,,,,,,,,,23/Apr/24 6:05 PM;60768795c9d3a20072dff7b6;GL Branch Codes curl.txt;https://techlogix.atlassian.net/rest/api/3/attachment/content/86386,23/Apr/24 2:24 PM;6391d8c45fc160544e1e0761;image-20240423-092301.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/86371,23/Apr/24 2:24 PM;6391d8c45fc160544e1e0761;image-20240423-092352.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/86370,24/Apr/24 11:18 AM;6391d8c45fc160544e1e0761;image-20240424-061826.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/86416,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@23026522,,,,,,,,,,,,,,,,,,"{repository={count=3, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":3,""lastUpdated"":""2024-05-02T01:07:32.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i061w5:,,,,,,,,,,,,,,,,,,24/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-23 13:05:56.871,,"23/Apr/24 6:05 PM;60768795c9d3a20072dff7b6;API 1: There is no option to deactivate an account let alone a till in GL, need to confirm first
+API 2 (name to be changed to GL Branch Code instead of GL Account Number): *Already present in the system, following curl is attached.*
+
+
+[^GL Branch Codes curl.txt]
+
+","24/Apr/24 11:18 AM;6391d8c45fc160544e1e0761;[~accountid:60768795c9d3a20072dff7b6] - Can you please confirm, below are the fields from GL response will be catered as key and value for dropdown ?
+
+* Key: {{idValueCode}}
+* Value: {{valueAndDescription}}
+
+
+
+!image-20240424-061826.png|width=1641,height=986,alt=""image-20240424-061826.png""!
+
+
+
+Thank you","24/Apr/24 1:20 PM;60768795c9d3a20072dff7b6;yes.
+example:
+8001 - HEADOFFICE will appear to user
+8001 will be the value dropdown sends to backend","02/May/24 1:09 AM;60768795c9d3a20072dff7b6;Work completed:
+- Deactivate a till from segments screen
+
+
+Pending work on this ticket:
+- Show an error on JV creation if user selects a deactivated TILL account
+- API for deactivated TILLs count",,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,24/Apr/24 9:11 PM
+BE: Hotfix - BM - Branch List to Users Screen,AUP-5208,98456,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,22/Apr/24 1:43 PM,10/May/24 11:21 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@74b2d08d,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=6}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":6,""lastUpdated"":""2024-04-25T18:07:24.431+0500"",""stateCount"":6,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":6,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i061el:,,,,,,,,,,,,,,,,,,22/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-22 08:59:34.933,,"22/Apr/24 1:59 PM;62df8acbbc2c449f3d93f0e0;[~accountid:6391d8c45fc160544e1e0761] [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2300|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2300|smart-link] 
+
+This includes changes in User API","22/Apr/24 6:51 PM;62df8acbbc2c449f3d93f0e0;PR merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2310|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2310|smart-link] 
+
+This PR included changes in Threshold, and User API in addition to that I incorporated Two requests from other teams 
+
+# Find Currency by IsoCode (Ali Muhammad Usman)
+# Get Country, Currency, productType by Generate Bank Code (Ayesha Noor Khan)
+
+[~accountid:6391d8c45fc160544e1e0761] ","23/Apr/24 5:36 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: 
+
+[https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2320|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2320|smart-link] 
+
+Remove IP_ADDRESS_RANGE AND EMIRATES_LKP_ID","24/Apr/24 10:53 AM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2329/multiple-user-save-api-and-filters-changes|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2329/multiple-user-save-api-and-filters-changes|smart-link] 
+
+This PR Includes following changes:
+
+* BE: Modal Search API 
+* BE: User Save could cater multiselect option 
+
+
+[~accountid:6391d8c45fc160544e1e0761] ","24/Apr/24 3:29 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2338|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2338|smart-link] 
+
+This includes the change in response of save Branch API to fix this issue
+
+* Upon saving Branch Profile, The rest of the tabs remains in locked state. The remainig tabs should be unlocked -
+
+[~accountid:6391d8c45fc160544e1e0761] ","25/Apr/24 6:08 PM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2374|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2374|smart-link] 
+
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,25/Apr/24 5:39 PM
+FE: Hotfix - BM - Branch List To Users Screen,AUP-5207,98455,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,22/Apr/24 1:42 PM,10/May/24 11:20 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Abdul Mannan,Ali Muhammad Usman,Bilawal Abbasi,Muhammad Faraz Ozair,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d1311e8,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=15}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":15,""lastUpdated"":""2024-05-08T12:43:26.644+0500"",""stateCount"":15,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":15,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i061ed:,,,,,,,,,,,,,,,,,,22/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-22 09:36:55.06,,22/Apr/24 2:36 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;User Tab Hotfix PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1621|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1621|smart-link] [~accountid:6391d8c45fc160544e1e0761] ,"22/Apr/24 2:50 PM;6391d8c45fc160544e1e0761;[~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] - please do make sure to create the branch name with the below format: 
+[module_name]/[developer_name]/[jira_ticket_numbet]/[description]
+
+For now I have created new branch with your name including your changes. Here is the PR
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1622|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1622|smart-link] 
+
+I have also deleted your previous branch.",22/Apr/24 3:46 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;Alerts and Users Hotfixes: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1625|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1625|smart-link] [~accountid:6391d8c45fc160544e1e0761] [~accountid:60ae8f6539ab6f00711ec31e] ,22/Apr/24 3:54 PM;6391d8c45fc160544e1e0761;PR merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1625|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1625|smart-link] ,22/Apr/24 4:08 PM;62df8acbbc2c449f3d93f0e0;PR Merge to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1626|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1626|smart-link] ,22/Apr/24 4:29 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1627|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1627|smart-link] ,22/Apr/24 4:32 PM;6391d8c45fc160544e1e0761;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1627|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1627|smart-link] ,23/Apr/24 11:31 AM;62df8acbbc2c449f3d93f0e0;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1629/alerts-and-controls-changes-committed|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1629/alerts-and-controls-changes-committed|smart-link]  ,23/Apr/24 4:10 PM;6391d8c45fc160544e1e0761;[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] - I have merged your PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1631|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1631|smart-link]  to main,"23/Apr/24 4:40 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;All threshold screen UI fixes.
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|smart-link] 
+","24/Apr/24 10:49 AM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1649/branch-profile-changes-committed|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1649/branch-profile-changes-committed|smart-link] 
+
+This PR Includes these changes from feedback:
+
+* Set the Status dropdown value to Active By Default 
+* Remove IP Address Range field - 
+* Remove Emirates field - 
+* Change the state field label to ""Emirates"" - 
+* Change the Branch Info Field Type to Textarea instead of input field. Need to be applied on (Branch Info 1, Branch Info 2, Branch Info 3) -
+* Move last section fields (Branch Info 1, Branch Info 2, Branch Info 3, Active Since, Closure Date) to align after PO Box fields
+
+[~accountid:6391d8c45fc160544e1e0761] ","24/Apr/24 3:17 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;This PR contains all the fixes of View Branch And Branch Profile Screen.
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1653|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1653|smart-link] 
+","24/Apr/24 3:31 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1652/branch-profile-enable-tabs-changes-commit|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1652/branch-profile-enable-tabs-changes-commit|smart-link] 
+
+This PR incldes this fix:
+
+* Upon saving Branch Profile, The rest of the tabs remains in locked state. The remainig tabs should be unlocked -
+
+[~accountid:6391d8c45fc160544e1e0761] ","25/Apr/24 12:57 PM;6391d8c45fc160544e1e0761;PR merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1653|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1653|smart-link] 
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] ","25/Apr/24 2:28 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;Following issues fixed in this PR:
+1) Users tab enable/disable
+2) Branch Ip field fix on controls screen.
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1673|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1673|smart-link] ","25/Apr/24 5:11 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1678|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1678|smart-link] 
+
+It includes Document Screen changes on mdm and bm both
+
+
+
+* Mdm Document Configuration Changes Committed: *8f07479295d01760e548e4a267aac21bde043dd0 [8f07479]*
+
+[~accountid:6391d8c45fc160544e1e0761] ","25/Apr/24 6:54 PM;62df8acbbc2c449f3d93f0e0;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1673|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1673|smart-link] 
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] [~accountid:60ae8f6539ab6f00711ec31e] [~accountid:6391d8c45fc160544e1e0761] ","25/Apr/24 8:20 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;# All Alerts Screen Alignment Issues Fixed 
+# City Field UI Fix On Branch Profile
+# Error Message Display In Red.
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1681|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1681|smart-link] 
+",26/Apr/24 5:30 PM;6391d8c45fc160544e1e0761;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1681|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1681|smart-link] ,"26/Apr/24 7:10 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;# Email and phone fix on branch profile screen.
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1692|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1692|smart-link] 
+","28/Apr/24 6:03 PM;6391d8c45fc160544e1e0761;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1692|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1692|smart-link] 
+
+[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] ",08/May/24 12:41 PM;6391d8c45fc160544e1e0761;PR by [~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|smart-link] ,08/May/24 12:43 PM;6391d8c45fc160544e1e0761;Merged PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1644|smart-link] ,97504,BM | UC-1: Creates new branch,Done,08/May/24 12:43 PM
+BE: Branch Creation | Threshold | Add PPC Card Threshold Min Max Fields,AUP-5166,98295,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,18/Apr/24 1:30 PM,10/May/24 11:20 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1903abd5,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-19T11:37:10.564+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i060it:,,,,,,,,,,,,,,,,,,19/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-19 06:39:41.122,,19/Apr/24 11:39 AM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2279|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2279|smart-link] ,"20/Apr/24 6:19 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2286|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2286|smart-link] 
+
+
+
+This PR Includes Changes in Get Branches Response Requested By [~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa]   cc: [~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:31 AM
+BE: Branch Creation | Users API,AUP-5094,98190,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,17/Apr/24 1:52 PM,10/May/24 11:16 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,20/Apr/24 7:06 PM;62df8acbbc2c449f3d93f0e0;getBranchUserCurl.txt;https://techlogix.atlassian.net/rest/api/3/attachment/content/86294,19/Apr/24 1:42 PM;62df8acbbc2c449f3d93f0e0;saveBranchUserCurl.txt;https://techlogix.atlassian.net/rest/api/3/attachment/content/86274,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e2dfecd,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2024-04-20T19:07:03.477+0500"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05zvx:,,,,,,,,,,,,,,,,,,19/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-19 08:42:36.887,,"19/Apr/24 1:42 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2282|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2282|smart-link] 
+
+[~accountid:6391d8c45fc160544e1e0761] Please Review This PR it cotains the code where user APIs 
+
+here is the curl of the saveBranchUser 
+
+
+
+[^saveBranchUserCurl.txt]
+
+[~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] ",19/Apr/24 5:21 PM;6391d8c45fc160544e1e0761;PR merged on main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2282|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2282|smart-link] ,"20/Apr/24 7:06 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2287|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2287|smart-link]  
+
+This PR Contains the Get User API Here is the Curl
+
+[^getBranchUserCurl.txt]
+
+[~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] Please find getBranchUser API which you will use on grid 
+
+
+
+cc: [~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,21/Apr/24 3:57 PM
+FE: Branch Creation | Users ,AUP-5093,98189,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,17/Apr/24 1:51 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,Muhammad Faraz Ozair,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@74f3ceee,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=4}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":4,""lastUpdated"":""2024-04-29T13:37:43.945+0500"",""stateCount"":4,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05zvp:,,,,,,,,,,,,,,,,,,17/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-22 07:33:12.662,,22/Apr/24 12:33 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1620|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1620|smart-link] ,22/Apr/24 1:00 PM;6391d8c45fc160544e1e0761;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1620|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1620|smart-link] ,25/Apr/24 11:36 AM;6391d8c45fc160544e1e0761;PR by [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] after new changes: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1660|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1660|smart-link] ,25/Apr/24 11:39 AM;6391d8c45fc160544e1e0761;PR Merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1660|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1660|smart-link] ,"25/Apr/24 5:13 PM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1679|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1679|smart-link] 
+Assignee: [~accountid:6391d8c45fc160544e1e0761] ","25/Apr/24 5:40 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1679|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1679|smart-link] 
+
+[~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] ","29/Apr/24 1:38 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1693|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1693|smart-link] 
+
+[~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] ",,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,29/Apr/24 1:50 PM
+FE: Create Area/Region ,AUP-5034,98084,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Muhammad Faraz Ozair,712020:958a2fe6-839c-45dc-aaef-c9a193093865,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,15/Apr/24 7:22 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,26/Apr/24 12:00 AM,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Muhammad Faraz Ozair,,,,6391d8c45fc160544e1e0761,712020:958a2fe6-839c-45dc-aaef-c9a193093865,,,,,,,,,,,,,,,,,AUP-4780,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4cb2f4f9,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-30T13:04:19.979+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05z8d:,,,,,,,,,,,,,,,,,,25/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-30 06:34:26.819,,30/Apr/24 11:34 AM;712020:958a2fe6-839c-45dc-aaef-c9a193093865;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1710|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1710|smart-link] ,30/Apr/24 1:04 PM;6391d8c45fc160544e1e0761;PR merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1710|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1710|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,03/May/24 11:27 AM
+BE: Area/Region API,AUP-5031,98080,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,15/Apr/24 5:15 PM,21/May/24 1:33 PM,10/Jun/24 11:11 AM,,,,26/Apr/24 12:00 AM,0,branchmanagement,oldsprint20,,,Bilawal Abbasi,,,,,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,AUP-4780,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@25901d27,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-25T15:54:12.050+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05z7h:,,,,,,,,,,,,,,,,,,15/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"25/Apr/24 3:55 PM;62df8acbbc2c449f3d93f0e0;PR Merged to Main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2372|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2372|smart-link] 
+
+[~accountid:6391d8c45fc160544e1e0761] ","21/May/24 1:33 PM;62df8acbbc2c449f3d93f0e0;# Get Area Region URL Based On Filters: 
+{noformat}https://afex-api-qa.tlxmobility.com/afx/bm/getBranchAreaRegion?page=0&pageSize=10&areaName=Abu&areaCode=12{noformat}
+ [~accountid:60ae8f6539ab6f00711ec31e] ",,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,03/May/24 11:27 AM
+FE: Branch Management Structure,AUP-5015,97967,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 2:28 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,,,,,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3ea1cf62,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-08T15:46:50.282+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05ypx:,,,,,,,,,,,,,,,,,,08/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Apr/24 12:47 PM;6391d8c45fc160544e1e0761;Here is the PR that contained the relevant change
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1560|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1560|smart-link] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,08/Apr/24 3:46 PM
+BE: Branch Creation | Documents API,AUP-5014,97966,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 2:10 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,08/Apr/24 8:03 PM;62df8acbbc2c449f3d93f0e0;Branch Management Curls.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/85991,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@40fd774d,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-16T13:35:43.996+0500"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05ypp:,,,,,,,,,,,,,,,,,,08/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-08 15:03:51.767,,"08/Apr/24 8:03 PM;62df8acbbc2c449f3d93f0e0;[^Branch Management Curls.postman_collection.json]
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2224|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2224|smart-link] ","18/Apr/24 6:25 PM;62df8acbbc2c449f3d93f0e0;Changes in Document APIs 
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2276|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2276|smart-link] ",,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:31 AM
+BE: Branch Creation | Threshold API,AUP-5013,97965,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 2:09 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,15/Apr/24 3:03 PM;62df8acbbc2c449f3d93f0e0;Branch Management Curls.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/86055,16/Apr/24 1:25 PM;6391d8c45fc160544e1e0761;image-20240416-082511.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/86116,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3e39caf,,,,,,,,,,,,,,,,,,"{repository={count=8, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":8,""lastUpdated"":""2024-04-19T11:23:11.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":8,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yph:,,,,,,,,,,,,,,,,,,15/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-15 10:03:02.788,,"15/Apr/24 3:03 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2235|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2235|smart-link] 
+
+
+
+[^Branch Management Curls.postman_collection.json]
+
+
+
+*CheckBox or DropDown Lookups*
+
+# *PRODUCT_LKP_ID*
+## REMITTANCE
+## CARD_TOP_UP
+## WPS
+## CARD_WITHDRAWL
+## FCY
+# *MONEY_TRANSFER_LKP_ID*
+## JAZZCASH
+## WESTERN_UNION
+## MONEY_LION
+## WISE","16/Apr/24 1:25 PM;6391d8c45fc160544e1e0761;Hi [~accountid:62df8acbbc2c449f3d93f0e0]  - For MTO please search the list in bank profile having category MTO.
+
+
+
+!image-20240416-082511.png|width=1866,height=557,alt=""image-20240416-082511.png""!
+
+Thank you","18/Apr/24 11:52 AM;62df8acbbc2c449f3d93f0e0;[~accountid:6391d8c45fc160544e1e0761] This PR has been updated MTO work has been done and Committed Please review it. Thanks
+
+synced with main at 11:52pm on 18-APR-2024",18/Apr/24 12:58 PM;6391d8c45fc160544e1e0761;PR is now Merged: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2235|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2235|smart-link] ,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:32 AM
+BE: Branch Creation | Alerts API,AUP-5012,97964,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 2:09 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,15/Apr/24 1:09 PM;62df8acbbc2c449f3d93f0e0;Branch Management Curls.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/86045,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@175537cb,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=3}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":3,""lastUpdated"":""2024-04-22T11:29:38.496+0500"",""stateCount"":3,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yp9:,,,,,,,,,,,,,,,,,,09/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-15 08:09:46.958,,"15/Apr/24 1:09 PM;62df8acbbc2c449f3d93f0e0;[^Branch Management Curls.postman_collection.json]
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2233|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2233|smart-link] 
+
+*DropDown Lookups:*
+
+# *THRESHOLD_TYPE_LKP_ID*
+## TXN_VOLUME_AED
+## BRANCH_STOCK_MANAGEMENT
+## THRESHOLD_VALUES
+# *TRANSACTION_TYPE_LKP_ID*
+## VAS_TRANSACTIONS
+# *NOTIFICATION_LKP_ID*
+## SMS
+## EMAIL
+# *BRANCH_STOCK_MANAGEMENT_LKP_ID*
+## PREPAID
+## DD
+## PAYROLL",16/Apr/24 12:27 PM;6391d8c45fc160544e1e0761;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2233|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2233|smart-link]  is now merged and deployed on QA,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:32 AM
+"BE: Branch Creation | View Branches List, Branch Profile, Controls API ",AUP-5011,97963,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 2:08 PM,10/May/24 11:15 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,08/Apr/24 5:07 PM;62df8acbbc2c449f3d93f0e0;Branch Management Curls.postman_collection.json;https://techlogix.atlassian.net/rest/api/3/attachment/content/85990,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1e19e1f7,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=3}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":3,""lastUpdated"":""2024-04-20T18:20:28.590+0500"",""stateCount"":3,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yp1:,,,,,,,,,,,,,,,,,,08/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-08 12:07:53.899,,"08/Apr/24 5:07 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2223|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2223|smart-link] 
+
+
+
+[^Branch Management Curls.postman_collection.json]
+
+",09/Apr/24 12:41 PM;6391d8c45fc160544e1e0761;PR Merged. Deployed on QA,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:32 AM
+FE: Branch Creation | Documents,AUP-5010,97962,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:52 PM,10/May/24 11:14 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5222b8e4,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-18T18:34:20.512+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yot:,,,,,,,,,,,,,,,,,,18/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-18 13:36:15.928,,"18/Apr/24 6:36 PM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1596|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1596|smart-link] 
+
+Here is the PR Behind Documents
+
+[~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,18/Apr/24 6:36 PM
+FE: Branch Creation | Threshold,AUP-5009,97961,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:51 PM,10/May/24 11:14 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3787a692,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2024-04-21T16:36:57.315+0500"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yol:,,,,,,,,,,,,,,,,,,16/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-18 15:08:47.269,,18/Apr/24 8:08 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1598|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1598|smart-link] ,19/Apr/24 1:19 PM;6391d8c45fc160544e1e0761;PR Merged to QA,19/Apr/24 5:19 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1605|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1605|smart-link] ,21/Apr/24 4:37 PM;6391d8c45fc160544e1e0761;PR merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1605|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1605|smart-link] ,"22/Apr/24 7:49 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1631|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1631|smart-link] 
+
+PPC Threshold Min And Max work done in this PR.",,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,21/Apr/24 4:37 PM
+FE: Branch Creation | Alerts,AUP-5008,97960,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Bilawal Abbasi,62df8acbbc2c449f3d93f0e0,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:51 PM,10/May/24 11:14 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6d85ce69,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=2}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":2,""lastUpdated"":""2024-04-22T11:45:56.078+0500"",""stateCount"":2,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":2,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yod:,,,,,,,,,,,,,,,,,,19/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-17 12:49:59.065,,"17/Apr/24 5:49 PM;62df8acbbc2c449f3d93f0e0;[~accountid:6391d8c45fc160544e1e0761] [~accountid:60ae8f6539ab6f00711ec31e] Here is the PR of this Ticket which I have merged provided by [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] 
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1580|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1580|smart-link] 
+
+*Commit #*{{d37ba87@F}}","22/Apr/24 11:42 AM;62df8acbbc2c449f3d93f0e0;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1617|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1617|smart-link] 
+
+This PR included code of Alerts Component Integration as well Fixes in Branch Creation, Threshold, Controls, Documents, Add New Branch Component  [~accountid:6391d8c45fc160544e1e0761] ",,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,23/Apr/24 11:32 AM
+FE: Branch Creation | Controls,AUP-5007,97959,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:48 PM,10/May/24 11:13 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Ali Muhammad Usman,Bilawal Abbasi,,,,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6f59f3fa,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=3}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":3,""lastUpdated"":""2024-04-18T17:55:37.471+0500"",""stateCount"":3,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05yo5:,,,,,,,,,,,,,,,,,,16/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-16 08:29:43.961,,16/Apr/24 12:53 PM;6391d8c45fc160544e1e0761;PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1568|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1568|smart-link] ,16/Apr/24 12:55 PM;6391d8c45fc160544e1e0761;PR is now merged.,"16/Apr/24 1:20 PM;6391d8c45fc160544e1e0761;[~accountid:62df8acbbc2c449f3d93f0e0] - I’m assigning you this ticket, can you please start with the Integration work. The UI is completed by [~accountid:712020:958a2fe6-839c-45dc-aaef-c9a193093865] and his PR is also merged to QA. Please cut a new branch from main so that you have the latest code. 
+
+Thank you",16/Apr/24 1:29 PM;62df8acbbc2c449f3d93f0e0;[~accountid:6391d8c45fc160544e1e0761] Okay Acknowledged,"18/Apr/24 11:08 AM;62df8acbbc2c449f3d93f0e0;[~accountid:6391d8c45fc160544e1e0761] Here is the PR of Control Screen Integration Kindly Review it 
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1585|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1585|smart-link] 
+
+cc: [~accountid:60ae8f6539ab6f00711ec31e] ",18/Apr/24 4:18 PM;6391d8c45fc160544e1e0761;Merged PR to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1585|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1585|smart-link] ,"18/Apr/24 6:14 PM;62df8acbbc2c449f3d93f0e0;Latest PR after fixing Build 
+
+PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1595|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1595|smart-link] ",,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,19/Apr/24 11:42 AM
+FE: Branch Creation | Branch Profile,AUP-5006,97958,Sub-task,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:48 PM,10/May/24 11:13 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,,,,,,,,AUP-1234,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6bd6a39c,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-16T16:45:47.852+0500"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05ynx:,,,,,,,,,,,,,,,,,,16/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-16 10:39:55.128,,16/Apr/24 3:39 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1572|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1572|smart-link] ,"16/Apr/24 4:48 PM;6391d8c45fc160544e1e0761;[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa]  - I just checked the branch name isn't in the correct format. Please make sure the branch naming convention should be followed as below. Please correct the branch name and provide me the PR again.
+
+Format: {{module-name/developer-name/ticket-number/description}}
+Example: {{bm/faraz/AUP-1234/branch-alerts-screen}}
+
+{color:#bf2600}Ignoring the PR:{color} [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1572|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1572|smart-link] 
+
+Thank you.","16/Apr/24 5:05 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[~accountid:6391d8c45fc160544e1e0761] I have updated the branch name and created the pull request again. 
+
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1573|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1573|smart-link] ",16/Apr/24 5:10 PM;6391d8c45fc160544e1e0761;I have now merged the PR: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1573|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1573|smart-link]  ,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,Done,22/Apr/24 4:33 PM
+FE: Branch Creation | View Branches List,AUP-5005,97957,Sub-task,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Ali Muhammad Usman,6391d8c45fc160544e1e0761,08/Apr/24 1:48 PM,10/May/24 11:02 AM,10/Jun/24 11:11 AM,,,,,0,branchmanagement,oldsprint20,,,Abdul Mannan,Ali Muhammad Usman,,,,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,,,,,,,,,,,,,AUP-4785,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4838d568,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-04-21T15:55:57.814+0500"",""stateCount"":1,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05ynp:,,,,,,,,,,,,,,,,,,19/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-20 16:22:31.654,,20/Apr/24 9:22 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1612|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1612|smart-link] ,21/Apr/24 3:56 PM;6391d8c45fc160544e1e0761;PR merged to QA: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1612|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1612|smart-link] ,,,,,,,,,,,,,,,,,,,,,,97504,BM | UC-1: Creates new branch,In Progress,21/Apr/24 4:38 PM
+BM | UC-2: Branch End Day by BM,AUP-4805,97545,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:36 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4804&addedToPage=true&issueId=AUP-4804#UC-2%3A-Branch-End-Day-by-BM,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1e02f8ff,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w4t:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:36 PM
+BM | UC-1: Branch End Day by System,AUP-4804,97543,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:35 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4803&addedToPage=true&issueId=AUP-4803#UC-1%3A-Branch-End-Day-by-System,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@48351c3b,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w4d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:35 PM
+BM | UC - 4-: Teller Proof Details with Variance & Reason,AUP-4803,97542,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:33 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4802&addedToPage=true&issueId=AUP-4802#UC---4-%3A-Teller-Proof-Details-with-Variance-%26-Reason,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@38465257,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w45:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:33 PM
+BM | UC-3: Save Teller Proof Details with Variance,AUP-4802,97540,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:33 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4801&addedToPage=true&issueId=AUP-4801#UC-3%3A-Save-Teller-Proof-Details-with-Variance,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@16834b59,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w3p:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:33 PM
+BM | UC-2: Save & Complete Teller Proof Details,AUP-4801,97537,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:31 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4800&addedToPage=true&issueId=AUP-4800#UC-2%3A-Save-%26-Complete-Teller-Proof-Details,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2cde7e56,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w31:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:31 PM
+BM | UC-1: Save FC Teller Proof Details for Later,AUP-4800,97536,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:30 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4799&addedToPage=true&issueId=AUP-4799#UC-1%3A-Save-FC-Teller-Proof-Details-for-Later,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@227e0193,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w2t:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:30 PM
+BM | Cashier Activity,AUP-4799,97533,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:29 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4798&addedToPage=true&issueId=AUP-4798#Cashier-Activity,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ab163c2,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w25:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:29 PM
+BM | Cashier Stock Summary,AUP-4798,97530,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:28 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4797&addedToPage=true&issueId=AUP-4797#Cashier-Stock-Summary,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5fc2b046,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w1h:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:28 PM
+BM | UC-2: User edits/view existing time extension request,AUP-4797,97529,Story,Reopened,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:27 PM,27/May/24 1:24 PM,27/May/24 12:23 PM,,branch-management,,08/May/24 12:00 AM,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4796&addedToPage=true&issueId=AUP-4796#UC-2%3A-User-edits%2Fview-existing-time-extension-request,,Faraz Pervez,sharqua,,,,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,AUP-5554,AUP-5555,,,,27/May/24 1:24 PM;63d26077f6e1b54316173e5c;image-20240527-081819.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88178,27/May/24 1:24 PM;63d26077f6e1b54316173e5c;image-20240527-081908.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88177,27/May/24 1:24 PM;63d26077f6e1b54316173e5c;image-20240527-082313.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88176,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@654ba81b,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w19:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,15/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-27 08:24:11.106,,"27/May/24 1:24 PM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+*Functional Issue:*
+
+# field validation is required at edit
+# wrong date is appearing on view and edit
+
+!image-20240527-081819.png|width=1259,height=678,alt=""image-20240527-081819.png""!
+
+*UI issue:*
+
+# remove new word from heading
+
+!image-20240527-081908.png|width=1193,height=597,alt=""image-20240527-081908.png""!
+
+# there should e some space after three dots, as it is too aligned at right
+
+!image-20240527-082313.png|width=1530,height=731,alt=""image-20240527-082313.png""!",,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,27/May/24 1:24 PM
+BM | UC-1: Create Time Extension Request,AUP-4796,97528,Story,Reopened,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Abdul Mannan,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:25 PM,27/May/24 1:31 PM,27/May/24 12:23 PM,,branch-management,,10/May/24 12:00 AM,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4795&addedToPage=true&issueId=AUP-4795#UC-1%3A-Create-Time-Extension-Request,,Faizan Hassan,Faraz Pervez,sharqua,,,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,,,,27/May/24 1:16 PM;63d26077f6e1b54316173e5c;image-20240527-075926.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88173,27/May/24 1:16 PM;63d26077f6e1b54316173e5c;image-20240527-080310.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88172,27/May/24 1:16 PM;63d26077f6e1b54316173e5c;image-20240527-080710.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88175,27/May/24 1:16 PM;63d26077f6e1b54316173e5c;image-20240527-081309.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88174,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2d24f787,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w11:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,15/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-24 08:18:39.817,,24/May/24 1:18 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] please start QA.,"27/May/24 1:16 PM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+*Functional issue:*
+
+# validation required in time fields
+
+!image-20240527-075926.png|width=1269,height=636,alt=""image-20240527-075926.png""!
+
+# list should be sorted in descending order
+
+!image-20240527-081309.png|width=1524,height=726,alt=""image-20240527-081309.png""!
+
+
+
+*UI issue:*
+
+# asterisk should be on all mandatory fields 
+# working hours fields should be in same line than other fields
+
+!image-20240527-080310.png|width=1528,height=722,alt=""image-20240527-080310.png""!
+
+# both statuses UI should be same
+# approve button font should not be shrunk
+# no more than 2 date field should appear on header
+# new extension request button should be slightly shifted to left
+# remove MD from heading
+
+!image-20240527-080710.png|width=1530,height=722,alt=""image-20240527-080710.png""!",,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,27/May/24 1:16 PM
+BM | Employee Master  (Report) - (HOLD),AUP-4795,97527,Story,Defer/Hold,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:25 PM,20/May/24 3:11 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4794&addedToPage=true&issueId=AUP-4794#Employee-Master,,Ali Muhammad Usman,Faraz Pervez,,,,6391d8c45fc160544e1e0761,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@20d5dfae,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w0t:,,,,,,,,,,,,,,,AFXUAE Sprint 23,AFXUAE Sprint 24,,15/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-20 05:28:52.72,,"20/May/24 10:28 AM;6391d8c45fc160544e1e0761;The initial format of this report is ready, and deployed on QA. After showing it to [~accountid:63c699e4d16a886a25e60e83] we might need to add some more information but that information will be communicated by [~accountid:63c699e4d16a886a25e60e83] himself. So once that is done then we will pick this ticket again. ",,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,20/May/24 10:29 AM
+BM | Manage Branch Duty Roster  (Report),AUP-4794,97526,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:24 PM,17/May/24 4:56 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4793&addedToPage=true&issueId=AUP-4793#Manage-Branch-Duty-Roster,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6c4a9211,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w0l:,,,,,,,,,,,,,,,AFXUAE Sprint 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:24 PM
+BM | Employee TAKT Time (Report),AUP-4793,97525,Story,Defer/Hold,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:23 PM,20/May/24 10:26 AM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4792&addedToPage=true&issueId=AUP-4792#Employee-TAKT-Time,,Ali Muhammad Usman,Faraz Pervez,,,,6391d8c45fc160544e1e0761,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@70c3f48f,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2024-06-05T12:43:42.000+0500"",""dataType"":""repository""},""byInstanceType"":{""bitbucket"":{""count"":4,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05w0d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-20 05:26:08.576,,20/May/24 10:26 AM;6391d8c45fc160544e1e0761;This report is linked with remittance module so once remittance module starts recording turnaround time then this report will be picked.,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:23 PM
+BM | UC-2: User edits/view existing Branch risk register,AUP-4792,97522,Story,In Progress,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:22 PM,23/May/24 7:28 PM,23/May/24 3:07 PM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4791&addedToPage=false&issueId=AUP-4791&statusText=error#UC-2%3A-User-edits%2Fview-existing-Branch-risk-register,,Faraz Pervez,sharqua,,,,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,AUP-5376,AUP-5367,AUP-5377,,,22/May/24 12:34 PM;63d26077f6e1b54316173e5c;image-20240522-071450.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87911,22/May/24 12:34 PM;63d26077f6e1b54316173e5c;image-20240522-071601.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87910,22/May/24 12:40 PM;63d26077f6e1b54316173e5c;image-20240522-073415.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87912,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@53097833,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vzp:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,06/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-22 07:34:07.91,,"22/May/24 12:34 PM;63d26077f6e1b54316173e5c;*UI ISSUES: view*
+
+# on modal heading should be view 
+# remove done button
+
+!image-20240522-071450.png|width=1097,height=700,alt=""image-20240522-071450.png""!
+
+# form upload border should not be broken
+
+!image-20240522-071601.png|width=1149,height=456,alt=""image-20240522-071601.png""!","22/May/24 12:40 PM;63d26077f6e1b54316173e5c;*Functional Issue: Edit*
+
+# risk response is not appearing
+# RISK RESPONSE is not updating
+# random follow-up dates are appearing on editing
+
+!image-20240522-073415.png|width=1534,height=149,alt=""image-20240522-073415.png""!",,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,23/May/24 7:28 PM
+BM| UC-1: Create branch register,AUP-4791,97519,Story,Reopened,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:21 PM,27/May/24 12:42 PM,03/Jun/24 1:56 PM,,branch-management,,02/May/24 12:00 AM,0,branchmanagement,,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4790&addedToPage=true&issueId=AUP-4790#UC-1%3A-Create-branch-register,,Ali Muhammad Usman,Bilawal Abbasi,Faizan Hassan,Faraz Pervez,sharqua,6391d8c45fc160544e1e0761,62df8acbbc2c449f3d93f0e0,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,,22/May/24 11:55 AM;63d26077f6e1b54316173e5c;image-20240522-064646.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87895,22/May/24 11:55 AM;63d26077f6e1b54316173e5c;image-20240522-065027.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87894,22/May/24 11:55 AM;63d26077f6e1b54316173e5c;image-20240522-065247.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87896,22/May/24 12:10 PM;63d26077f6e1b54316173e5c;image-20240522-065735.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87905,27/May/24 12:42 PM;63d26077f6e1b54316173e5c;image-20240527-071746.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88158,27/May/24 12:37 PM;63d26077f6e1b54316173e5c;image-20240527-073745.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88157,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1d63261,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=MERGED, stateCount=3}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":3,""lastUpdated"":""2024-05-23T15:32:09.761+0500"",""stateCount"":3,""state"":""MERGED"",""dataType"":""pullrequest"",""open"":false},""byInstanceType"":{""bitbucket"":{""count"":3,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vz1:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,22/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-22 06:55:58.795,,"22/May/24 11:55 AM;63d26077f6e1b54316173e5c;*LIST* 
+
+*Functional Issue:*
+
+# search with risk id and department is not working, no dropdown is appearing on created on field, search with risk status is not working
+
+!image-20240522-064646.png|width=1524,height=474,alt=""image-20240522-064646.png""!
+
+# pagination is not working
+
+!image-20240522-065027.png|width=1550,height=734,alt=""image-20240522-065027.png""!
+
+*UI issue:*
+
+# header should be sticky and covering whole page
+# new button should not stick to the right
+
+!image-20240522-065247.png|width=1524,height=216,alt=""image-20240522-065247.png""!
+
+# approve button font is too shrink
+
+!image-20240527-073745.png|width=1534,height=725,alt=""image-20240527-073745.png""!","22/May/24 12:10 PM;63d26077f6e1b54316173e5c;*Functional issues:* 
+
+*CREATE RISK REGISTER:*
+
+# done should not be pressed until form is not filled
+# Validation is required at email fields
+# file is not uploaded
+# empty form should not be submitted
+
+!image-20240522-065735.png|width=1098,height=710,alt=""image-20240522-065735.png""!
+
+*UI issues:*
+
+# apply asterisk to mandatory fields ","22/May/24 6:36 PM;62df8acbbc2c449f3d93f0e0;BE PR: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2759|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2759|smart-link] 
+
+FE PR : [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1999|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1999|smart-link] ",22/May/24 6:55 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2759|https://bitbucket.org/tmx-techlogix/financials-backend-uae/pull-requests/2759|smart-link] ,22/May/24 7:04 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1999|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1999|smart-link] ,23/May/24 1:35 PM;60ae8f6539ab6f00711ec31e;[~accountid:62df8acbbc2c449f3d93f0e0] pagination not working properly. Please check,24/May/24 1:10 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] Please check. all issues resolved.,"27/May/24 12:42 PM;63d26077f6e1b54316173e5c;all functional issues are tested and verified over QA
+
+!image-20240527-071746.png|width=1535,height=444,alt=""image-20240527-071746.png""!
+
+UI issues are remaining [~accountid:60ae8f6539ab6f00711ec31e] ",,,,,,,,,,,,,,,,98608,Branch Management,To Do,27/May/24 12:42 PM
+BM | UC-2: User edits/view existing day end report,AUP-4790,97518,Story,Verified on QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:20 PM,27/May/24 12:53 PM,27/May/24 12:34 PM,,branch-management,,30/Apr/24 12:00 AM,0,branchmanagement,,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4789&addedToPage=true&issueId=AUP-4789#UC-2%3A-User-edits%2Fview-existing-day-end-report,,Faizan Hassan,Faraz Pervez,sharqua,,,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,AUP-5365,AUP-5366,,,,22/May/24 11:29 AM;63d26077f6e1b54316173e5c;image-20240522-062358.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87887,22/May/24 11:29 AM;63d26077f6e1b54316173e5c;image-20240522-062539.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87889,22/May/24 11:29 AM;63d26077f6e1b54316173e5c;image-20240522-062751.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87888,22/May/24 11:31 AM;63d26077f6e1b54316173e5c;image-20240522-063043.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87891,22/May/24 11:34 AM;63d26077f6e1b54316173e5c;image-20240522-063306.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87893,22/May/24 11:34 AM;63d26077f6e1b54316173e5c;image-20240522-063410.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87892,23/May/24 5:14 PM;63d26077f6e1b54316173e5c;image-20240523-120555.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88032,23/May/24 5:14 PM;63d26077f6e1b54316173e5c;image-20240523-120831.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88033,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@d5b83c,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vyt:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,03/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-22 06:30:01.437,,"22/May/24 11:30 AM;63d26077f6e1b54316173e5c;+*UI ISSUES:*+
+
+*(EDIT DAY END REPORT)*
+
+# Hover hand should be appear on buttons
+# header “branch id“ are not readable
+# remove < symbol from radio button
+# remove MD from header
+
+!image-20240522-062358.png|width=1568,height=404,alt=""image-20240522-062358.png""!
+
+# When pressing submit button notification should appear accordingly
+
+!image-20240522-062751.png|width=1516,height=390,alt=""image-20240522-062751.png""!
+
+# on pressing save and submit button on empty form notification should be “please select yes or no“
+
+!image-20240522-063306.png|width=1532,height=408,alt=""image-20240522-063306.png""!
+
+# on remarks text should be on center of field
+
+!image-20240522-063410.png|width=1516,height=390,alt=""image-20240522-063410.png""!
+
+
+
+*VIEW DAY END REPORT)*
+
+# header “branch id“ are not readable
+# remove < symbol from radio button
+# remove MD from header
+# on remarks text should be on center of field
+
+!image-20240522-062539.png|width=1548,height=430,alt=""image-20240522-062539.png""!","22/May/24 11:31 AM;63d26077f6e1b54316173e5c;Functional issue:
+
+# when pressing submit button, user should come out of the form
+
+!image-20240522-063043.png|width=1526,height=390,alt=""image-20240522-063043.png""!",23/May/24 1:45 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] Bugs resolved and deployed on QA. Please check and verify.,"23/May/24 5:14 PM;63d26077f6e1b54316173e5c;# horizontal scroll should be removed by reducing width of status column
+# search with branch name and code is not working
+
+!image-20240523-120555.png|width=1916,height=877,alt=""image-20240523-120555.png""!
+
+# on view page save and done should be disable or absent
+
+!image-20240523-120831.png|width=1914,height=605,alt=""image-20240523-120831.png""!
+
+* from *(EDIT DAY END REPORT)* point 2,7 is remaining
+* *VIEW DAY END REPORT)*  point 2,4 is remaining",24/May/24 1:10 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] All the issues resolved. Please check.,"27/May/24 12:53 PM;63d26077f6e1b54316173e5c;all issues are verified and tested over QA.
+
+from UI *VIEW DAY END REPORT* point 2,4 are remaining [~accountid:60ae8f6539ab6f00711ec31e] ",,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,27/May/24 12:53 PM
+BM | UC-1: Create day end report,AUP-4789,97517,Story,Reopened,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:19 PM,27/May/24 12:34 PM,27/May/24 12:34 PM,,branch-management,,30/Apr/24 12:00 AM,0,branchmanagement,,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4788&addedToPage=true&issueId=AUP-4788#UC-1%3A-Create-day-end-report,,Abdul Mannan,Ali Muhammad Usman,Faizan Hassan,Faraz Pervez,sharqua,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,,21/May/24 1:59 PM;63d26077f6e1b54316173e5c;image-20240521-074023.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87846,21/May/24 1:59 PM;63d26077f6e1b54316173e5c;image-20240521-074159.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87845,22/May/24 11:17 AM;63d26077f6e1b54316173e5c;image-20240522-061221.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87885,22/May/24 11:19 AM;63d26077f6e1b54316173e5c;image-20240522-061833.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87886,23/May/24 4:39 PM;63d26077f6e1b54316173e5c;image-20240523-113905.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88027,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@192ee8f9,,,,,,,,,,,,,,,,,,"{pullrequest={dataType=pullrequest, state=OPEN, stateCount=1}, json={""cachedValue"":{""errors"":[],""summary"":{""pullrequest"":{""overall"":{""count"":1,""lastUpdated"":""2024-06-06T12:07:05.881+0500"",""stateCount"":1,""state"":""OPEN"",""dataType"":""pullrequest"",""open"":true},""byInstanceType"":{""bitbucket"":{""count"":1,""name"":""Bitbucket Cloud""}}}}},""isStale"":true}}",,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vyl:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,03/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-21 08:59:47.405,,"21/May/24 1:59 PM;63d26077f6e1b54316173e5c;Functional issue: (*Day End Report Activity*)
+
+# same date filter is not working
+# date filter should not search until to date is not given
+
+!image-20240521-074023.png|width=1528,height=282,alt=""image-20240521-074023.png""!
+
+!image-20240521-074159.png|width=1532,height=458,alt=""image-20240521-074159.png""!
+
+# remove debugger from this page
+
+!image-20240523-113905.png|width=1917,height=910,alt=""image-20240523-113905.png""!","22/May/24 11:17 AM;63d26077f6e1b54316173e5c;UI Issues: 
+
+# on search placeholder should be according to columns
+# status field size should be reduce
+
+!image-20240522-061221.png|width=1532,height=296,alt=""image-20240522-061221.png""!
+
+# record with status should appear on same line
+# header should be sticky fully covered the page
+
+!image-20240522-061833.png|width=1518,height=446,alt=""image-20240522-061833.png""!",23/May/24 2:03 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] issues resolved and deployed on QA. Please check and verify.,"23/May/24 4:40 PM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+* search with branch name and code is not working
+* from UI issue point 2,4 are remaining
+* from functional issue point 3 is remaining",24/May/24 11:21 AM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/2024|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/2024|smart-link] ,24/May/24 12:37 PM;6391d8c45fc160544e1e0761;Merged PR to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/2024|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/2024|smart-link] ,24/May/24 1:08 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] bugs resolved except minor UI issues. Please check.,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,27/May/24 11:28 AM
+BM | UC-2: User create/edits/view existing Branch mapping to Area/Region,AUP-4788,97516,Story,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:18 PM,27/May/24 2:33 PM,27/May/24 11:30 AM,,branch-management,,29/Apr/24 12:00 AM,0,branchmanagement,,[https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4787&addedToPage=true&issueId=AUP-4787#UC-2%3A-User-edits%2Fview-existing-Branch-mapping-to-Area%2FRegion|https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4787&addedToPage=true&issueId=AUP-4787#UC-2%3A-User-edits%2Fview-existing-Branch-mapping-to-Area%2FRegion],,Faizan Hassan,Faraz Pervez,sharqua,,,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,AUP-5355,,,,,22/May/24 10:44 AM;63d26077f6e1b54316173e5c;image-20240522-053523.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87876,22/May/24 10:44 AM;63d26077f6e1b54316173e5c;image-20240522-054148.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87877,22/May/24 10:49 AM;63d26077f6e1b54316173e5c;image-20240522-054513.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87878,22/May/24 10:51 AM;63d26077f6e1b54316173e5c;image-20240522-055039.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87879,22/May/24 10:56 AM;63d26077f6e1b54316173e5c;image-20240522-055253.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87880,22/May/24 11:05 AM;63d26077f6e1b54316173e5c;image-20240522-055656.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87882,22/May/24 11:05 AM;63d26077f6e1b54316173e5c;image-20240522-060115.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87883,27/May/24 11:16 AM;63d26077f6e1b54316173e5c;image-20240527-060459.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88128,27/May/24 11:16 AM;63d26077f6e1b54316173e5c;image-20240527-060533.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88127,27/May/24 11:16 AM;63d26077f6e1b54316173e5c;image-20240527-061539.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88129,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@21cc2ccb,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vyd:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,03/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-22 05:44:53.894,,"22/May/24 10:44 AM;63d26077f6e1b54316173e5c;+*UI Issues:*+
+
+ *(VIEW Branch Mapping)*
+
+# Done button should not be there
+# modal heading should be view branch mapping
+
+!image-20240522-053523.png|width=981,height=420,alt=""image-20240522-053523.png""!
+
+*(Edit Branch Mapping)*
+
+# modal heading should be edit branch mapping
+
+!image-20240522-054148.png|width=1142,height=429,alt=""image-20240522-054148.png""!
+
+# on validation message remove assign and select words
+
+!image-20240522-055039.png|width=962,height=413,alt=""image-20240522-055039.png""!
+
+*List branch mapping:*
+
+# button name should be “map branch to area/region” 
+# component should be according to page size
+
+!image-20240522-055656.png|width=1534,height=725,alt=""image-20240522-055656.png""!
+
+# placeholder should only have  branch name 
+# column branch should be branch name
+# remove MD from header
+
+!image-20240522-060115.png|width=1510,height=462,alt=""image-20240522-060115.png""!","22/May/24 10:49 AM;63d26077f6e1b54316173e5c;+*Functional Issues:*+ 
+
+*(Edit Branch Mapping)*
+
+# search is not working fine
+# edited name is not appearing on list
+# edited date and time should be appearing on list
+# on “mapped by” column person who edited branch mapping should appear
+
+!image-20240522-054513.png|width=1514,height=712,alt=""image-20240522-054513.png""!
+
+# mapped branches should not appear on dropdown list
+
+!image-20240522-055253.png|width=1019,height=470,alt=""image-20240522-055253.png""!
+
+ ",24/May/24 1:06 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] Bugs fixed. Please check.,"27/May/24 11:16 AM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+# on creation, already mapped branch should not appear on the list
+
+!image-20240527-060533.png|width=1520,height=604,alt=""image-20240527-060533.png""!
+
+# same branches should not mapped multiple with same or different area
+
+!image-20240527-060459.png|width=1505,height=228,alt=""image-20240527-060459.png""!
+
+# point 1 is remaining from functional issue
+# from *List branch mapping* point 2 is remaining
+# when editing branch new branch is mapped 
+
+!image-20240527-061539.png|width=1503,height=506,alt=""image-20240527-061539.png""!",,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,27/May/24 2:33 PM
+BM| UC-1: Create/view/edit  Area/Region,AUP-4787,97515,Story,Verified on QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,sharqua,63d26077f6e1b54316173e5c,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:17 PM,27/May/24 11:17 AM,03/Jun/24 4:06 PM,,branch-management,,29/Apr/24 12:00 AM,0,branchmanagement,,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4786&addedToPage=true&issueId=AUP-4786#UC-1%3A-Creates-Branch-Mapping-to-Area%2FRegion,,Abdul Mannan,Ali Muhammad Usman,Faizan Hassan,Faraz Pervez,sharqua,712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa,6391d8c45fc160544e1e0761,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,,21/May/24 10:51 AM;63d26077f6e1b54316173e5c;image-20240521-054351.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87805,21/May/24 10:58 AM;63d26077f6e1b54316173e5c;image-20240521-055702.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87808,21/May/24 10:58 AM;63d26077f6e1b54316173e5c;image-20240521-055728.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87809,21/May/24 10:58 AM;63d26077f6e1b54316173e5c;image-20240521-055751.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87807,21/May/24 11:05 AM;63d26077f6e1b54316173e5c;image-20240521-055926.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87812,21/May/24 11:05 AM;63d26077f6e1b54316173e5c;image-20240521-060446.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87810,21/May/24 11:05 AM;63d26077f6e1b54316173e5c;image-20240521-060541.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87811,21/May/24 11:12 AM;63d26077f6e1b54316173e5c;image-20240521-061147.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87813,21/May/24 11:52 AM;63d26077f6e1b54316173e5c;image-20240521-061538.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87820,21/May/24 11:52 AM;63d26077f6e1b54316173e5c;image-20240521-061837.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87817,21/May/24 11:52 AM;63d26077f6e1b54316173e5c;image-20240521-062008.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87816,21/May/24 11:52 AM;63d26077f6e1b54316173e5c;image-20240521-062138.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87818,21/May/24 11:52 AM;63d26077f6e1b54316173e5c;image-20240521-065240.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87819,23/May/24 3:27 PM;63d26077f6e1b54316173e5c;image-20240523-102708.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88009,23/May/24 4:28 PM;63d26077f6e1b54316173e5c;image-20240523-112828.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88026,24/May/24 4:29 PM;63d26077f6e1b54316173e5c;image-20240524-112412.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88092,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ed2ca4d,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vy5:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,03/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-21 05:40:01.395,,"21/May/24 10:40 AM;63d26077f6e1b54316173e5c;Functional issues: (*Add Area Region*)
+
+# search bar is not working
+# pagination is not working, it should be same as on view branch SS attached
+
+!image-20240521-054351.png|width=1531,height=758,alt=""image-20240521-054351.png""!
+
+# special character should not allow at area name
+
+!image-20240521-055926.png|width=1483,height=657,alt=""image-20240521-055926.png""!
+
+# empty form is also get submitted, it should be restricted
+
+!image-20240521-060446.png|width=1522,height=667,alt=""image-20240521-060446.png""!
+
+# data is not appearing on “added by” column 
+
+!image-20240521-060541.png|width=1466,height=610,alt=""image-20240521-060541.png""!","21/May/24 10:59 AM;63d26077f6e1b54316173e5c;UI Issues:(*Add area/region)*
+
+# component should be of screen size
+
+!image-20240521-055751.png|width=1526,height=729,alt=""image-20240521-055751.png""!
+
+# on header rather than *MD Area Region* it should be *Add Area Region*
+# on button text should be  *Add Area Region* rather than add new are/region
+
+!image-20240521-055728.png|width=1522,height=377,alt=""image-20240521-055728.png""!
+
+# on menu there should be 
+!image-20240521-055702.png|width=1554,height=674,alt=""image-20240521-055702.png""!","21/May/24 11:12 AM;63d26077f6e1b54316173e5c;UI issue: (*View area/region)*
+
+# Done should not be appeared on view screen
+#  icon and text on button should be center aligned
+# label on modal should be *View area/region*
+
+!image-20240521-061147.png|width=1050,height=454,alt=""image-20240521-061147.png""!","21/May/24 11:52 AM;63d26077f6e1b54316173e5c;Functional Issue: (*Edit area/region*) 
+
+# same name area/region should not allow to enter
+# when edit record that time and date should be appearing
+
+!image-20240521-061538.png|width=1472,height=646,alt=""image-20240521-061538.png""!
+
+# empty form shouldn’t be submitted, edit any record remove name and press done button
+
+!image-20240521-061837.png|width=1524,height=706,alt=""image-20240521-061837.png""!
+
+UI Issue: (*Edit area/region*) 
+
+# modal label should be *Edit area/region*
+
+!image-20240521-062008.png|width=950,height=414,alt=""image-20240521-062008.png""!
+
+# on context menu remove “s”  from view and edit detail
+
+!image-20240521-062138.png|width=1512,height=398,alt=""image-20240521-062138.png""!
+
+# special characters should not allow on edit
+# column “code” should be change to “area code”
+
+!image-20240521-065240.png|width=1481,height=653,alt=""image-20240521-065240.png""!",21/May/24 2:50 PM;6391d8c45fc160544e1e0761;[~accountid:712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa] - Please look into these issues.,"21/May/24 6:27 PM;712020:9aad8c58-113f-48e4-851f-3013a7c2bdaa;[~accountid:6391d8c45fc160544e1e0761] As discussed, I have fixed all the issues.
+[https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1972|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1972|smart-link] ",22/May/24 12:43 PM;6391d8c45fc160544e1e0761;PR Merged to main: [https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1972|https://bitbucket.org/tmx-techlogix/financials-frontend-uae/pull-requests/1972|smart-link] ,23/May/24 1:44 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] All the mentioned issues have been resolved and deployed on QA. Please check and verify.,"23/May/24 3:27 PM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+wrong date and time is appearing on added on and updated on columns 
+
+UI Issues:(*Add area/region)* point 1,2 are remaining
+
+!image-20240523-102708.png|width=1866,height=282,alt=""image-20240523-102708.png""!
+
+Functional bug: area code is not auto incrementing
+
+!image-20240523-112828.png|width=1916,height=836,alt=""image-20240523-112828.png""!",23/May/24 7:15 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] reported functional issues resolved. Please check.,"24/May/24 1:04 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] issues resolved.
+date is appearing correctly now and area id is incrementing fine. Please check","24/May/24 4:29 PM;63d26077f6e1b54316173e5c;[~accountid:60ae8f6539ab6f00711ec31e] 
+
+when entering same name area, then error should be that “area already exists“
+
+!image-20240524-112412.png|width=1535,height=627,alt=""image-20240524-112412.png""!",,,,,,,,,,,,98608,Branch Management,In Progress,21/May/24 6:27 PM
+"BM| Change log will be maintain of the create branch, branch edit, modification",AUP-4786,97513,Story,Open,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:16 PM,29/Apr/24 1:24 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,"Change log will be maintain of the create branch, branch edit, modification 
+
+User (who did the change)
+
+Time  Date (When did the change happened.
+
+Fields that are changed.
+
+Approval logs.",,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2c99ae7d,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vxp:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,01/Apr/24 12:16 PM
+BM | UC-3: Closed or Inactive existing branches,AUP-4785,97510,Story,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:15 PM,15/May/24 4:21 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4784&addedToPage=true&issueId=AUP-4784#UC-3%3A-Closed-or-Inactive-existing-branches,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,AUP-5005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@78f5d4df,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vx1:,,,,,,,,,,,,,,,,,,24/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,24/Apr/24 1:17 PM
+BM | UC-2: User Modifies MTO’s,AUP-4784,97507,Story,Closed,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:14 PM,20/May/24 10:40 AM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4782&addedToPage=true&issueId=AUP-4782#UC-2%3A-User-Modifies-MTO%E2%80%99s,,Ali Muhammad Usman,Faraz Pervez,,,,6391d8c45fc160544e1e0761,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,AUP-4783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1fd47ee9,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vwd:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-20 05:39:57.755,,20/May/24 10:39 AM;6391d8c45fc160544e1e0761;I’m closing this out since we already have another ticket monitoring the tasks of Modifying MTO: [https://techlogix.atlassian.net/browse/AUP-4783|https://techlogix.atlassian.net/browse/AUP-4783|smart-link] ,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,Done,20/May/24 10:40 AM
+BM | UC-2: User Modifies MTO’s,AUP-4783,97506,Story,In Progress,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:14 PM,20/May/24 3:11 PM,10/Jun/24 11:11 AM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4782&addedToPage=true&issueId=AUP-4782#UC-2%3A-User-Modifies-MTO%E2%80%99s,,Faraz Pervez,,,,,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,AUP-4784,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1b923c3d,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vw5:,,,,,,,,,,,,,,,AFXUAE Sprint 23,AFXUAE Sprint 24,,20/May/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,20/May/24 10:37 AM
+BM| UC-2: User edits/view existing Branch,AUP-4782,97505,Story,Verified on QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,sharqua,63d26077f6e1b54316173e5c,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:13 PM,23/May/24 6:40 PM,03/Jun/24 4:11 PM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4781&addedToPage=true&issueId=AUP-4781#UC-2%3A-User-edits%2Fview-existing-Branch,,Ali Muhammad Usman,Faizan Hassan,Faraz Pervez,sharqua,,6391d8c45fc160544e1e0761,60ae8f6539ab6f00711ec31e,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,AUP-5576,,20/May/24 5:17 PM;63d26077f6e1b54316173e5c;image-20240520-121614.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87772,20/May/24 5:37 PM;63d26077f6e1b54316173e5c;image-20240520-123723.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87777,20/May/24 5:41 PM;63d26077f6e1b54316173e5c;image-20240520-124010.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/87779,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@d906756,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vvx:,,,,,,,,,,,,,,,,,,24/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-05-10 06:11:28.254,,10/May/24 11:11 AM;6391d8c45fc160544e1e0761;Task completion details are mentioned here: [https://techlogix.atlassian.net/browse/AUP-5576?focusedCommentId=110604|https://techlogix.atlassian.net/browse/AUP-5576?focusedCommentId=110604|smart-link] ,"20/May/24 5:17 PM;63d26077f6e1b54316173e5c;UI testing: 
+
+# button icon and text should be center aligned.
+# column header should be sticky
+
+!image-20240520-121614.png|width=1571,height=729,alt=""image-20240520-121614.png""!
+
+# search bar buttons should be on same line
+# txt and icon should be on same center align
+
+!image-20240520-123723.png|width=1530,height=201,alt=""image-20240520-123723.png""!","20/May/24 5:41 PM;63d26077f6e1b54316173e5c;Functional: search with status is not working
+
+!image-20240520-124010.png|width=1410,height=622,alt=""image-20240520-124010.png""!",23/May/24 1:23 PM;60ae8f6539ab6f00711ec31e;[~accountid:63d26077f6e1b54316173e5c] Functional issues resolved please check & verify..,23/May/24 5:00 PM;63d26077f6e1b54316173e5c;functional issue is tested and verified over QA ,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,23/May/24 6:40 PM
+BM | UC-1: Creates new branch,AUP-4781,97504,Story,Reopened,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Faizan Hassan,60ae8f6539ab6f00711ec31e,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:13 PM,03/Jun/24 5:19 PM,03/Jun/24 4:17 PM,,branch-management,,,0,branchmanagement,oldsprint20,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management?JIRAIssuesCreated=true&numOfIssues=1&issuesURL=https%3A%2F%2Ftechlogix.atlassian.net%2Fbrowse%2FAUP-4780&addedToPage=true&issueId=AUP-4780#UC-1%3A-Creates-new-branch,,Faraz Pervez,sharqua,,,,63c699e4d16a886a25e60e83,63d26077f6e1b54316173e5c,,,,,,,,,,,,,,,,,,,,,,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-111926.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88636,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-112043.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88635,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-112150.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88639,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-112602.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88640,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-112733.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88632,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-113617.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88633,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-114107.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88638,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-114308.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88634,03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;image-20240603-114408.png;https://techlogix.atlassian.net/rest/api/3/attachment/content/88637,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4facf80,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vvp:,,,,,,,,,,,,,,,,,,24/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-06-03 11:55:07.777,,"03/Jun/24 4:55 PM;63d26077f6e1b54316173e5c;*UI ISSUES:*
+
+# on control tab, there should be checkbox to choose more than one value
+
+!image-20240603-111926.png|width=1534,height=726,alt=""image-20240603-111926.png""!
+
+# on control tab, sequence should be “send, receive , all“
+!image-20240603-112043.png|width=1534,height=714,alt=""image-20240603-112043.png""!
+
+ 3. sequence should be “daily, weekly, optional“
+
+!image-20240603-112150.png|width=1534,height=633,alt=""image-20240603-112150.png""!
+
+# trn volume, threshold values ui should be covering whole row
+
+!image-20240603-112602.png|width=1551,height=610,alt=""image-20240603-112602.png""!
+
+# alert tab and  threshold tab, hovering is only work for odd rows e.g(1,3,5…)
+
+!image-20240603-112733.png|width=1502,height=494,alt=""image-20240603-112733.png""!
+
+!image-20240603-114107.png|width=1518,height=509,alt=""image-20240603-114107.png""!
+
+# on document tab, remove scroll 
+
+!image-20240603-114308.png|width=1534,height=560,alt=""image-20240603-114308.png""!
+
+# description should be on the center of the field
+
+!image-20240603-114408.png|width=1518,height=416,alt=""image-20240603-114408.png""!
+
+
+
+*Field Validation:*
+
+on alert tab, min max validation is required  on ppc fields
+
+!image-20240603-113617.png|width=1394,height=728,alt=""image-20240603-113617.png""!",,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,To Do,03/Jun/24 5:19 PM
+BM | Use Cases of Area/Region,AUP-4780,97503,Story,Deployed On QA,AUP,AFX UAE Platform,software,Saad Bin Meraj,557058:e1aeafc2-d969-474d-b50a-41b8b4f580ea,,,Major,,Ali Muhammad Usman,6391d8c45fc160544e1e0761,Faraz Pervez,63c699e4d16a886a25e60e83,Faraz Pervez,63c699e4d16a886a25e60e83,01/Apr/24 12:12 PM,20/May/24 3:11 PM,10/Jun/24 10:16 AM,,branch-management,,26/Apr/24 12:00 AM,0,branchmanagement,,https://techlogix.atlassian.net/wiki/spaces/AUP/pages/5990547476/Branch+Management#Use-Cases-of-Area%2FRegion,,Ali Muhammad Usman,Faraz Pervez,,,,6391d8c45fc160544e1e0761,63c699e4d16a886a25e60e83,,,,,,,,,,,,,,,,,,,,AUP-5031,AUP-5034,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2db95d75,,,,,,,,,,,,,,,,,,{},,,AUP-5287,Branch Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2|i05vvh:,,,,,,,,,,,,,,,AFXUAE Sprint 22,AFXUAE Sprint 23,AFXUAE Sprint 24,26/Apr/24 12:00 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-04-26 05:55:49.898,,"26/Apr/24 10:55 AM;6391d8c45fc160544e1e0761;Tickets are already created. Mentioning their details here:
+
+BE: [https://techlogix.atlassian.net/browse/AUP-5031|https://techlogix.atlassian.net/browse/AUP-5031|smart-link] 
+
+FE: [https://techlogix.atlassian.net/browse/AUP-5034|https://techlogix.atlassian.net/browse/AUP-5034|smart-link] 
+
+Thank you",,,,,,,,,,,,,,,,,,,,,,,98608,Branch Management,In Progress,26/Apr/24 11:54 AM
